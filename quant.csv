@@ -1,0 +1,745 @@
+,Industry,Topics,Quantitative,Code,Metrics
+1,,Data Privacy,1,SV-AD-220a.2,Percentage of online advertising impressions that are targeted to custom audiences
+2,,Data Privacy,1,SV-AD-220a.3,Total amount of monetary losses as a result of legal proceedings associated with consumer privacy
+3,,Advertising Integrity,1,SV-AD-270a.1,"Total amount of monetary losses as a result of legal proceedings associated with false, deceptive, or unfair advertising"
+4,,Advertising Integrity,1,SV-AD-270a.2,"Percentage of campaigns reviewed for adherence with the Advertising Self- Regulatory Council (ASRC) procedures, percentage of those in compliance"
+5,,Advertising Integrity,1,SV-AD-270a.3,Percentage of campaigns that promote alcohol or tobacco products
+6,,Workforce Diversity & Inclusion,1,SV-AD-330a.1,"Percentage of gender and racial/ethnic group representation for (1) management, (2) professionals, and (3) all other employees"
+7,AEROSPACE & DEFENSE,Energy Management,1,RT-AE-130a.1,"(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable"
+8,,Hazardous Waste Management,1,RT-AE-150a.1,"Amount of hazardous waste generated, percentage recycled"
+9,,Hazardous Waste Management,1,RT-AE-150a.2,"Number and aggregate quantity of reportable spills, quantity recovered"
+10,,Data Security,1,RT-AE-230a.1,"(1) Number of data breaches, (2) percentage involving confidential information"
+12,,Product Safety,1,RT-AE-250a.1,"Number of recalls issued, total units recalled"
+13,,Product Safety,1,RT-AE-250a.2,"Number of counterfeit parts detected, percentage avoided"
+14,,Product Safety,1,RT-AE-250a.3,"Number of Airworthiness Directives received, total units affected"
+15,,Product Safety,1,RT-AE-250a.4,Total amount of monetary losses as a result of legal proceedings associated with product safety
+16,,Fuel Economy & Emissions in Use-phase,1,RT-AE-410a.1,Revenue from alternative energy-related products
+19,,Business Ethics,1,RT-AE-510a.1,"Total amount of monetary losses as a result of legal proceedings associated with incidents of corruption, bribery, and/or illicit international trade"
+20,,Business Ethics,1,RT-AE-510a.2,Revenue from countries ranked in the “E” or“F” Band of Transparency International’sGovernment Defence Anti-Corruption Index
+22,AGRICULTURAL PRODUCTS,Greenhouse Gas Emissions,1,FB-AG-110a.1,Gross global Scope 1 emissions
+24,,Greenhouse Gas Emissions,1,FB-AG-110a.3,"Fleet fuel consumed, percentage renewable"
+25,,Energy Management,1,FB-AG-130a.1,"(1) Operational energy consumed, (2) percentage grid electricity, (3) percentage renewable"
+26,,Water Management,1,FB-AG-140a.1,"(1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress"
+28,,Water Management,1,FB-AG-140a.3,"Number of incidents of non-compliance associated with water quantity and/or quality permits, standards, and regulations"
+29,,Food Safety,1,FB-AG-250a.1,Global Food Safety Initiative (GFSI) audit (1) non-conformance rate and (2) associated corrective action rate for (a) major and (b) minor non-conformances
+30,,Food Safety,1,FB-AG-250a.2,Percentage of agricultural products sourced from suppliers certified to a Global Food Safety Initiative (GFSI) recognized food safety certification program
+31,,Food Safety,1,FB-AG-250a.3,(1) Number of recalls issued and (2) total amount of food product recalled
+32,,Workforce Health & Safety,1,FB-AG-320a.1,"(1) Total recordable incident rate (TRIR), (2) fatality rate, and (3) near miss frequency rate (NMFR) for (a) direct employees and (b) seasonal and migrant employees"
+33,,Environmental & Social Impacts of Ingredient Supply Chain,1,FB-AG-430a.1,"Percentage of agricultural products sourced that are certified to a third-party environmental and/or social standard, and percentages by standard"
+34,,Environmental & Social Impacts of Ingredient Supply Chain,1,FB-AG-430a.2,Suppliers’ social and environmental responsibility audit (1) non-conformance rate and (2) associated corrective action rate for (a) major and (b) minor non-conformances
+38,,Ingredient Sourcing,1,FB-AG-440a.2,Percentage of agricultural products sourced from regions with High or Extremely High Baseline Water Stress
+39,AIR FREIGHT & LOGISTICS,Greenhouse Gas Emissions,1,TR-AF-110a.1,Gross global Scope 1 emissions
+41,,Greenhouse Gas Emissions,1,TR-AF-110a.3,"Fuel consumed by (1) road transport, percentage (a) natural gas and (b) renewable, and (2) air transport, percentage (a) alternative and (b) sustainable"
+42,,Air Quality,1,TR-AF-120a.1,"Air emissions of the following pollutants: (1) NOx (excluding N2O), (2) SOx, and (3) particulate matter (PM10)"
+43,,Labor Practices,1,TR-AF-310a.1,Percentage of drivers classified as independent contractors
+44,,Labor Practices,1,TR-AF-310a.2,Total amount of monetary losses as a result of legal proceedings associated with labor law violations
+45,,Employee Health & Safety,1,TR-AF-320a.1,(1) Total recordable incident rate (TRIR) and (2) fatality rate for (a) direct employees and (b) contract employees
+46,,Supply Chain Management,1,TR-AF-430a.1,Percentage of carriers with BASIC percentiles above the FMCSA intervention threshold
+47,,Supply Chain Management,1,TR-AF-430a.2,Total greenhouse gas (GHG) footprint across transport modes
+49,,Accident & Safety Management,1,TR-AF-540a.2,Number of aviation accidents
+50,,Accident & Safety Management,1,TR-AF-540a.3,Number of road accidents and incidents
+51,,Accident & Safety Management,1,TR-AF-540a.4,"Safety Measurement System BASIC percentiles for: (1) Unsafe Driving, (2) Hours-of-Service Compliance, (3) Driver Fitness, (4) Controlled Substances/Alcohol, (5) Vehicle Maintenance, and (6) Hazardous Materials Compliance"
+52,AIRLINES,Greenhouse Gas Emissions,1,TR-AL-110a.1,Gross global Scope 1 emissions
+54,,Greenhouse Gas Emissions,1,TR-AL-110a.3,"(1) Total fuel consumed, (2) percentage alternative, (3) percentage sustainable"
+55,,Labor Practices,1,TR-AL-310a.1,Percentage of active workforce covered under collective bargaining agreements
+56,,Labor Practices,1,TR-AL-310a.2,(1) Number of work stoppages and (2) total days idle
+57,,Competitive Behavior,1,TR-AL-520a.1,Total amount of monetary losses as a result of legal proceedings associated with anti-competitive behavior regulations
+59,,Accident & Safety Management,1,TR-AL-540a.2,Number of aviation accidents
+60,,Accident & Safety Management,1,TR-AL-540a.3,Number of governmental enforcement actions of aviation safety regulations
+61,ALCOHOLIC BEVERAGES,Energy Management,1,FB-AB-130a.1,"(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable"
+62,,Water Management,1,FB-AB-140a.1,"(1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress"
+64,,Responsible Drinking & Marketing,1,FB-AB-270a.1,Percentage of total advertising impressions made on individuals at or above the legal drinking age
+65,,Responsible Drinking & Marketing,1,FB-AB-270a.2,Number of incidents of non-compliance with industry or regulatory labeling and/or marketing codes
+66,,Responsible Drinking & Marketing,1,FB-AB-270a.3,Total amount of monetary losses as a result of legal proceedings associated with marketing and/or labeling practices
+68,,Packaging Lifecycle Management,1,FB-AB-410a.1,"(1) Total weight of packaging, (2) percentage made from recycled and/or renewable materials, and (3) percentage that is recyclable, reusable, and/or compostable"
+70,,Environmental & Social Impacts of Ingredient Supply Chain,1,FB-AB-430a.1,Suppliers’ social and environmental responsibility audit (1) non-conformance rate and (2) associated corrective action rate for (a) major and (b) minor non-conformances
+71,,Ingredient Sourcing,1,FB-AB-440a.1,Percentage of beverage ingredients sourced from regions with High or Extremely High Baseline Water Stress
+75,,Environmental Impacts in the Supply Chain,1,CG-AA-430a.1,Percentage of (1) Tier 1 supplier facilities and (2) supplier facilities beyond Tier 1 in compliance with wastewater discharge permits and/or contractual agreements
+76,,Environmental Impacts in the Supply Chain,1,CG-AA-430a.2,Percentage of (1) Tier 1 supplier facilities and (2) supplier facilities beyond Tier 1 that have completed the Sustainable Apparel Coalition’s Higg Facility Environmental Module (Higg FEM) assessment or an equivalent environmental data assessment
+77,,Labor Conditions in the Supply Chain,1,CG-AA-430b.1,"Percentage of (1) Tier 1 supplier facilities and (2) supplier facilities beyond Tier 1 that have been audited to a labor code of conduct, (3) percentage of total audits conducted by a third-party auditor"
+78,,Labor Conditions in the Supply Chain,1,CG-AA-430b.2,Priority non-conformance rate and associated corrective action rate for suppliers’ labor code of conduct audits
+81,,Raw Materials Sourcing,1,CG-AA-440a.2,"Percentage of raw materials third-party certified to an environmental and/or social sustainability standard, by standard"
+83,,Raw Materials Sourcing,1,CG-AA-440a.4,"(1) Amount of priority raw materials purchased, by material, and (2) amount of each priority raw material that is certified to a third-party environmental and/or social standard, by standard"
+84,APPLIANCE MANUFACTURING,Product Safety,1,CG-AM-250a.1,Number of (1) recalls issued and (2) total units recalled
+86,,Product Safety,1,CG-AM-250a.3,Total amount of monetary losses as a result of legal proceedings associated with product safety
+87,,Product Lifecycle Environmental Impacts,1,CG-AM-410a.1,Percentage of eligible products by revenue certified to the ENERGY STAR® program
+88,,Product Lifecycle Environmental Impacts,1,CG-AM-410a.2,Percentage of eligible products certified to an Association of Home Appliance Manufacturers (AHAM) sustainability standard
+90,ASSET MANAGEMENT & CUSTODY,Transparent Information & Fair Advice for Customers,1,FN-AC-270a.1,"(1) Number and (2) percentage of covered employees with a record of investment-related investigations, consumer-initiated complaints, private civil litigations, or other regulatory proceedings"
+91,,Transparent Information & Fair Advice for Customers,1,FN-AC-270a.2,Total amount of monetary losses as a result of legal proceedings associated with marketing and communication of financial product-related information to new and returning customers
+93,,Employee Diversity & Inclusion,1,FN-AC-330a.1,"Percentage of gender and racial/ethnic group representation for (1) executive management, (2) non-executive management, (3) professionals, and (4) all other employees"
+94,,"Incorporation of Environmental, Social, and Governance Factors in Investment Management & Advisory",1,FN-AC-410a.1,"Amount of assets under management, by asset class, that employ (1) integration of environmental, social, and governance (ESG) issues, (2) sustainability themed investing, and (3) screening"
+97,,Business Ethics,1,FN-AC-510a.1,"Total amount of monetary losses as a result of legal proceedings associated with fraud, insider trading, anti-trust, anti-competitive behavior, market manipulation, malpractice, or other related financial industry laws or regulations"
+99,,Systemic Risk Management,1,FN-AC-550a.1,Percentage of open-end fund assets under management by category of liquidity classification
+101,,Systemic Risk Management,1,FN-AC-550a.3,"Total exposure to securities financing
+transactions"
+102,,Systemic Risk Management,1,FN-AC-550a.4,Net exposure to written credit derivatives
+103,AUTO PARTS,Energy Management,1,TR-AP-130a.1,"(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable"
+104,,Waste Management,1,TR-AP-150a.1,"(1) Total amount of waste from manufacturing, (2) percentage hazardous, (3) percentage recycled"
+105,,Product Safety,1,TR-AP-250a.1,"Number of recalls issued, total units recalled"
+106,,Design for Fuel Efficiency,1,TR-AP-410a.1,Revenue from products designed to increase fuel efficiency and/or reduce emissions
+108,,Materials Efficiency,1,TR-AP-440b.1,Percentage of products sold that are recyclable
+109,,Materials Efficiency,1,TR-AP-440b.2,Percentage of input materials from recycled or remanufactured content
+110,,Competitive Behavior,1,TR-AP-520a.1,Total amount of monetary losses as a result of legal proceedings associated with anti-competitive behavior regulations
+111,AUTOMOBILES,Product Safety,1,TR-AU-250a.1,"Percentage of vehicle models rated by NCAP programs with an overall 5-star safety rating, by region"
+112,,Product Safety,1,TR-AU-250a.2,"Number of safety-related defect complaints, percentage investigated"
+113,,Product Safety,1,TR-AU-250a.3,Number of vehicles recalled
+114,,Labor Practices,1,TR-AU-310a.1,Percentage of active workforce covered under collective bargaining agreements
+115,,Labor Practices,1,TR-AU-310a.2,(1) Number of work stoppages and (2) total days idle
+116,,Fuel Economy & Use-phase Emissions,1,TR-AU-410a.1,"Sales-weighted average passenger fleet fuel economy, by region"
+117,,Fuel Economy & Use-phase Emissions,1,TR-AU-410a.2,"Number of (1) zero emission vehicles (ZEV), (2) hybrid vehicles, and (3) plug-in hybrid vehicles sold"
+120,,Materials Efficiency & Recycling,1,TR-AU-440b.1,"Total amount of waste from manufacturing, percentage recycled"
+121,,Materials Efficiency & Recycling,1,TR-AU-440b.2,"Weight of end-of-life material recovered, percentage recycled"
+122,,Materials Efficiency & Recycling,1,TR-AU-440b.3,Average recyclability of vehicles sold
+123,BIOFUELS,Air Quality,1,RR-BI-120a.1,"Air emissions of the following pollutants: (1) NOx (excluding N2O), (2) SOx, (3) volatile organic compounds (VOCs), (4) particulate matter (PM10), and (5) hazardous air pollutants (HAPs)"
+124,,Air Quality,1,RR-BI-120a.2,"Number of incidents of non-compliance associated with air quality permits, standards, and regulations"
+125,,Water Management in Manufacturing,1,RR-BI-140a.1,"(1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress"
+127,,Water Management in Manufacturing,1,RR-BI-140a.3,"Number of incidents of non-compliance associated with water quality permits, standards, and regulations"
+128,,Lifecycle Emissions Balance,1,RR-BI-410a.1,"Lifecycle greenhouse gas (GHG) emissions, by biofuel type"
+130,,Sourcing & Environmental Impacts of Feedstock Production,1,RR-BI-430a.2,Percentage of biofuel production third-party certified to an environmental sustainability standard
+131,,Management of the Legal & Regulatory Environment,1,RR-BI-530a.1,Amount of subsidies received through government programs
+133,,"Operational Safety, Emergency Preparedness & Response",1,RR-BI-540a.1,"Process Safety Incidents Count (PSIC), Process Safety Total Incident Rate (PSTIR), and Process Safety Incident Severity Rate (PSISR)"
+135,,Safety of Clinical Trial Participants,1,HC-BP-210a.2,Number of FDA Sponsor Inspections related to clinical trial management and pharmacovigilance that resulted in: (1) Voluntary Action Indicated (VAI) and (2) Official Action Indicated (OAI)
+136,,Safety of Clinical Trial Participants,1,HC-BP-210a.3,Total amount of monetary losses as a result of legal proceedings associated with clinical trials in developing countries
+139,,Affordability & Pricing,1,HC-BP-240b.1,Number of settlements of Abbreviated New Drug Application (ANDA) litigation that involved payments and/or provisions to delay bringing an authorized generic product to market for a defined time period
+140,,Affordability & Pricing,1,HC-BP-240b.2,Percentage change in: (1) average list price and (2) average net price across U.S. product portfolio compared to previous year
+141,,Affordability & Pricing,1,HC-BP-240b.3,Percentage change in: (1) list price and (2) net price of product with largest increase compared to previous year
+143,,Drug Safety,1,HC-BP-250a.2,Number of fatalities associated with products as reported in the FDA Adverse Event Reporting System
+144,,Drug Safety,1,HC-BP-250a.3,"Number of recalls issued, total units recalled"
+145,,Drug Safety,1,HC-BP-250a.4,"Total amount of product accepted for take-back, reuse, or disposal"
+146,,Drug Safety,1,HC-BP-250a.5,"Number of FDA enforcement actions taken in response to violations of current Good Manufacturing Practices (cGMP), by type"
+149,,Counterfeit Drugs,1,HC-BP-260a.3,"Number of actions that led to raids, seizure, arrests, and/or filing of criminal charges related to counterfeit products"
+150,,Ethical Marketing,1,HC-BP-270a.1,Total amount of monetary losses as a result of legal proceedings associated with false marketing claims
+153,,"Employee Recruitment, Development & Retention",1,HC-BP-330a.2,"(1) Voluntary and (2) involuntary turnover rate for: (a) executives/senior managers, (b) mid-level managers, (c) professionals, and (d) all others"
+154,,Supply Chain Management,1,HC-BP-430a.1,Percentage of (1) entity's facilities and (2) Tier I suppliers' facilities participating in the Rx-360 International Pharmaceutical Supply Chain Consortium audit program or equivalent third-party audit programs for integrity of supply chain and ingredients
+155,,Business Ethics,1,HC-BP-510a.1,Total amount of monetary losses as a result of legal proceedings associated with corruption and bribery
+157,BUILDING PRODUCTS & FURNISHINGS,Energy Management in Manufacturing,1,CG-BF-130a.1,"(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable"
+159,,Management of Chemicals in Products,1,CG-BF-250a.2,Percentage of eligible products meeting volatile organic compound (VOC) emissions and content standards
+161,,Product Lifecycle Environmental Impacts,1,CG-BF-410a.2,"(1) Weight of end-of-life material recovered, (2) percentage of recovered materials recycled"
+162,,Wood Supply Chain Management,1,CG-BF-430a.1,"(1) Total weight of wood fiber materials purchased, (2) percentage from third-party certified forestlands, (3) percentage by standard, and (4) percentage certified to other wood fiber standards, (5) percentage by standard"
+163,CAR RENTAL & LEASING,Customer Safety,1,TR-CR-250a.1,"Percentage of rental fleet vehicles rated by NCAP programs with an overall 5-star safety rating, by region"
+164,,Customer Safety,1,TR-CR-250a.2,Number of vehicles recalled
+165,,Fleet Fuel Economy & Utilization,1,TR-CR-410a.1,"Rental day-weighted average rental fleet fuel economy, by region"
+166,,Fleet Fuel Economy & Utilization,1,TR-CR-410a.2,Fleet utilization rate
+167,CASINOS & GAMING,Energy Management,1,SV-CA-130a.1,"(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable"
+168,,Responsible Gaming,1,SV-CA-260a.1,Percentage of gaming facilities that implement the Responsible Gambling Index
+169,,Responsible Gaming,1,SV-CA-260a.2,Percentage of online gaming operations that implement the National Council on Problem Gambling (NCPG) Internet Responsible Gambling Standards
+170,,Smoke-free Casinos,1,SV-CA-320a.1,Percentage of gaming floor where smoking is allowed
+171,,Smoke-free Casinos,1,SV-CA-320a.2,Percentage of gaming staff who work in areas where smoking is allowed
+173,,Internal Controls on Money Laundering,1,SV-CA-510a.2,Total amount of monetary losses as a result of legal proceedings associated with money laundering
+174,CHEMICALS,Greenhouse Gas Emissions,1,RT-CH-110a.1,"Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations"
+177,,Energy Management,1,RT-CH-130a.1,"(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable, (4) total self-generated energy"
+178,,Water Management,1,RT-CH-140a.1,"(1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress"
+179,,Water Management,1,RT-CH-140a.2,"Number of incidents of non-compliance associated with water quality permits, standards, and regulations"
+181,,Hazardous Waste Management,1,RT-CH-150a.1,"Amount of hazardous waste generated, percentage recycled"
+183,,Workforce Health & Safety,1,RT-CH-320a.1,(1) Total recordable incident rate (TRIR) and (2) fatality rate for (a) direct employees and (b) contract employees
+184,,Workforce Health & Safety,1,RT-CH-320a.2,"Description of efforts to assess, monitor, and reduce exposure of employees and contract workers to long-term (chronic) health risks"
+185,,Product Design for Use-phase Efficiency,1,RT-CH-410a.1,Revenue from products designed for use-phase resource efficiency
+186,,Safety & Environmental Stewardship of Chemicals,1,RT-CH-410b.1,"(1) Percentage of products that contain Globally Harmonized System of Classification and Labeling of Chemicals (GHS) Category 1 and 2 Health and Environmental Hazardous Substances, (2) percentage of such products that have undergone a hazard assessment"
+188,,Genetically Modified Organisms,1,RT-CH-410c.1,Percentage of products by revenue that contain genetically modified organisms (GMOs)
+190,,"Operational Safety, Emergency Preparedness & Response",1,RT-CH-540a.1,"Process Safety Incidents Count (PSIC), Process Safety Total Incident Rate (PSTIR), and Process Safety Incident Severity Rate (PSISR)"
+191,,"Operational Safety, Emergency Preparedness & Response",1,RT-CH-540a.2,Number of transport incidents
+192,COAL OPERATIONS,Greenhouse Gas Emissions,1,EM-CO-110a.1,"Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations"
+194,,Water Management,1,EM-CO-140a.1,"(1) Total fresh water withdrawn, (2) percentage recycled, (3) percentage in regions with High or Extremely High Baseline Water Stress"
+195,,Water Management,1,EM-CO-140a.2,"Number of incidents of non-compliance associated with water quality permits, standards, and regulations"
+196,,Waste Management,1,EM-CO-150a.2,Total weight of non-mineral waste generated
+197,,Waste Management,1,EM-CO-150a.3,Total weight of tailings produced
+198,,Waste Management,1,EM-CO-150a.4,Total weight of waste rock generated
+199,,Waste Management,1,EM-CO-150a.5,Total weight of hazardous waste generated
+200,,Waste Management,1,EM-CO-150a.6,Total weight of hazardous waste recycled
+201,,Waste Management,1,EM-CO-150a.7,Number of significant incidents associated with hazardous waste management
+204,,Biodiversity Impacts,1,EM-CO-160a.2,"Percentage of mine sites where acid rock drainage is: (1) predicted to occur, (2) actively mitigated, and (3) under treatment or remediation"
+205,,Biodiversity Impacts,1,EM-CO-160a.3,Percentage of (1) proved and (2) probable reserves in or near sites with protected conservation status or endangered species habitat
+206,,Rights of Indigenous Peoples,1,EM-CO-210a.1,Percentage of (1) proved and (2) probable reserves in or near indigenous land
+209,,Community Relations,1,EM-CO-210b.2,Number and duration of non-technical delays
+210,,Labor Relations,1,EM-CO-310a.1,"Percentage of active workforce covered under collective bargaining agreements, broken down by U.S. and foreign employees"
+211,,Labor Relations,1,EM-CO-310a.2,Number and duration of strikes and lockouts
+212,,Workforce Health & Safety,1,EM-CO-320a.1,"(1) MSHA All-Incidence rate, (2) fatality rate, and (3) near miss frequency rate (NMFR)"
+214,,Reserves Valuation & Capital Expenditures,1,EM-CO-420a.1,Sensitivity of coal reserve levels to future price projection scenarios that account for a price on carbon emissions
+215,,Reserves Valuation & Capital Expenditures,1,EM-CO-420a.2,Estimated carbon dioxide emissions embedded in proven coal reserves
+217,,Tailings Storage Facilities Management,1,EM-CO-540a.1,"Tailings storage facility inventory table: (1) facility name, (2) location, (3) ownership status, (4) operational status, (5) construction method, (6) maximum permitted storage capacity, (7) current amount of tailings stored, (8) consequence classification, (9) date of most recent independent technical review, (10) material findings, (11) mitigation measures, (12) site-specific EPRP"
+220,COMMERCIAL BANKS,Data Security,1,FN-CB-230a.1,"(1) Number of data breaches, (2) percentage involving personally identifiable information (PII), (3) number of account holders affected"
+222,,Financial Inclusion & Capacity Building,1,FN-CB-240a.1,(1) Number and (2) amount of loans outstanding qualified to programs designed to promote small business and community development
+223,,Financial Inclusion & Capacity Building,1,FN-CB-240a.2,(1) Number and (2) amount of past due and nonaccrual loans qualified to programs designed to promote small business and community development
+224,,Financial Inclusion & Capacity Building,1,FN-CB-240a.3,Number of no-cost retail checking accounts provided to previously unbanked or underbanked customers
+225,,Financial Inclusion & Capacity Building,1,FN-CB-240a.4,"Number of participants in financial literacy initiatives for unbanked, underbanked, or underserved customers"
+226,,"Incorporation of Environmental, Social, and Governance Factors in Credit Analysis",1,FN-CB-410a.1,"Commercial and industrial credit exposure, by industry"
+228,,Business Ethics,1,FN-CB-510a.1,"Total amount of monetary losses as a result of legal proceedings associated with fraud, insider trading, anti-trust, anti-competitive behavior, market manipulation, malpractice, or other related financial industry laws or regulations"
+230,,Systemic Risk Management,1,FN-CB-550a.1,"Global Systemically Important Bank (G-SIB) score, by category"
+232,CONSTRUCTION MATERIALS,Greenhouse Gas Emissions,1,EM-CM-110a.1,"Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations"
+234,,Air Quality,1,EM-CM-120a.1,"Air emissions of the following pollutants: (1) NOx (excluding N2O), (2) SOx, (3) particulate matter (PM10), (4) dioxins/furans, (5) volatile organic compounds (VOCs), (6) polycyclic aromatic hydrocarbons (PAHs), and (7) heavy metals"
+235,,Energy Management,1,EM-CM-130a.1,"(1) Total energy consumed, (2) percentage grid electricity, (3) percentage alternative, (4) percentage renewable"
+236,,Water Management,1,EM-CM-140a.1,"(1) Total fresh water withdrawn, (2) percentage recycled, (3) percentage in regions with High or Extremely High Baseline Water Stress"
+237,,Waste Management,1,EM-CM-150a.1,"Amount of waste generated, percentage hazardous, percentage recycled"
+239,,Biodiversity Impacts,1,EM-CM-160a.2,"Terrestrial acreage disturbed, percentage of impacted area restored"
+240,,Workforce Health & Safety,1,EM-CM-320a.1,(1) Total recordable incident rate (TRIR) and (2) near miss frequency rate (NMFR) for (a) full-time employees and (b) contract employees
+241,,Workforce Health & Safety,1,EM-CM-320a.2,Number of reported cases of silicosis
+242,,Product Innovation,1,EM-CM-410a.1,Percentage of products that qualify for credits in sustainable building design and construction certifications
+243,,Product Innovation,1,EM-CM-410a.2,"Total addressable market and share of market for products that reduce energy, water, and/or material impacts during usage and/or production"
+244,,Pricing Integrity & Transparency,1,EM-CM-520a.1,"Total amount of monetary losses as a result of legal proceedings associated with cartel activities, price fixing, and anti-trust activities"
+245,CONSUMER FINANCE,Customer Privacy,1,FN-CF-220a.1,Number of account holders whose information is used for secondary purposes
+246,,Customer Privacy,1,FN-CF-220a.2,Total amount of monetary losses as a result of legal proceedings associated with customer privacy
+247,,Data Security,1,FN-CF-230a.1,"(1) Number of data breaches, (2) percentage involving personally identifiable information (PII), (3) number of account holders affected"
+248,,Data Security,1,FN-CF-230a.2,Card-related fraud losses from (1) card-not-present fraud and (2) card-present and other fraud
+250,,Selling Practices,1,FN-CF-270a.1,Percentage of total remuneration for covered employees that is variable and linked to the amount of products and services sold
+251,,Selling Practices,1,FN-CF-270a.2,Approval rate for (1) credit and (2) pre-paid products for applicants with FICO scores above and below 660
+252,,Selling Practices,1,FN-CF-270a.3,"(1) Average fees from add-on products, (2) average APR, (3) average age of accounts, (4) average number of trade lines, and (5) average annual fees for pre-paid products, for customers with FICO scores above and below 660"
+253,,Selling Practices,1,FN-CF-270a.4,"(1) Number of complaints filed with the Consumer Financial Protection Bureau (CFPB), (2) percentage with monetary or non-monetary relief, (3) percentage disputed by consumer, (4) percentage that resulted in investigation by the CFPB"
+254,,Selling Practices,1,FN-CF-270a.5,Total amount of monetary losses as a result of legal proceedings associated with selling and servicing of products
+255,CONTAINERS & PACKAGING,Greenhouse Gas Emissions,1,RT-CP-110a.1,"Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations"
+257,,Air Quality,1,RT-CP-120a.1,"Air emissions of the following pollutants: (1) NOx (excluding N2O), (2) SOx, (3) volatile organic compounds (VOCs), and (4) particulate matter (PM)"
+258,,Energy Management,1,RT-CP-130a.1,"(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable, (4) total self-generated energy"
+259,,Water Management,1,RT-CP-140a.1,"(1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress"
+260,,Water Management,1,RT-CP-140a.2,Description of water management risks and discussion of strategies and practices to mitigate those risks
+261,,Water Management,1,RT-CP-140a.3,"Number of incidents of non-compliance associated with water quality permits, standards, and regulations"
+262,,Waste Management,1,RT-CP-150a.1,"Amount of hazardous waste generated, percentage recycled"
+263,,Product Safety,1,RT-CP-250a.1,"Number of recalls issued, total units recalled"
+265,,Product Lifecycle Management,1,RT-CP-410a.1,"Percentage of raw materials from: (1) recycled content, (2) renewable resources, and (3) renewable and recycled content"
+266,,Product Lifecycle Management,1,RT-CP-410a.2,"Revenue from products that are reusable, recyclable, and/or compostable"
+268,,Supply Chain Management,1,RT-CP-430a.1,"Total wood fiber procured, percentage from certified sources"
+269,,Supply Chain Management,1,RT-CP-430a.2,"Total aluminum purchased, percentage from certified sources"
+270,CRUISE LINES,Greenhouse Gas Emissions,1,TR-CL-110a.1,Gross global Scope 1 emissions
+272,,Greenhouse Gas Emissions,1,TR-CL-110a.3,"(1) Total energy consumed, (2) percentage heavy fuel oil, (3) percentage onshore power supply (OPS), (4) percentage renewable"
+273,,Greenhouse Gas Emissions,1,TR-CL-110a.4,Average Energy Efficiency Design Index (EEDI) for new ships
+274,,Air Quality,1,TR-CL-120a.1,"Air emissions of the following pollutants: (1) NOx (excluding N2O), (2) SOx, and (3) particulate matter (PM10)"
+275,,Discharge Management & Ecological Impacts,1,TR-CL-160a.1,"Total amount of ship waste discharged to the environment, percentage treated prior to discharge"
+276,,Discharge Management & Ecological Impacts,1,TR-CL-160a.2,Percentage of fleet implementing ballast water (1) exchange and (2) treatment
+277,,Discharge Management & Ecological Impacts,1,TR-CL-160a.3,Cruise duration in marine protected areas or areas of protected conservation status
+278,,Discharge Management & Ecological Impacts,1,TR-CL-160a.4,Number of notices of violations received for dumping
+279,,Customer Health & Safety,1,TR-CL-250a.1,Number of alleged crime incidents involving passengers or employees
+280,,Customer Health & Safety,1,TR-CL-250a.2,"Fleet average CDC Vessel Sanitation Program inspection score, percentage of inspections failed"
+281,,Customer Health & Safety,1,TR-CL-250a.3,(1) Serious injuries per million passengers and (2) number of voyages with a gastrointestinal illness count exceeding 2%
+282,,Labor Practices,1,TR-CL-310a.1,"Average hourly wage for seafarers, by region"
+283,,Labor Practices,1,TR-CL-310a.2,Percentage of seafarers working maximum hours
+284,,Labor Practices,1,TR-CL-310a.3,Percentage of seafarers paid for overtime
+285,,Labor Practices,1,TR-CL-310a.4,Total amount of monetary losses as a result of legal proceedings associated with labor law violations
+286,,Employee Health & Safety,1,TR-CL-320a.1,Seafarer lost time incident rate (LTIR)
+287,,Accident Management,1,TR-CL-540a.1,Number of Conditions of Class or Recommendations
+288,,Accident Management,1,TR-CL-540a.2,Number of port state control (1) deficiencies and (2) detentions
+289,,Accident Management,1,TR-CL-540a.3,"Number of marine casualties, percentage classified as very serious"
+290,DRUG RETAILERS,Energy Management in Retail,1,HC-DR-130a.1,"(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable"
+292,,Data Security & Privacy,1,HC-DR-230a.2,"(1) Number of data breaches, (2) percentage involving (a) personally identifiable information (PII) only and (b) protected health information (PHI), (3) number of customers affected in each category, (a) PII only and (b) PHI"
+293,,Data Security & Privacy,1,HC-DR-230a.3,Total amount of monetary losses as a result of legal proceedings associated with data security and privacy
+295,,Drug Supply Chain Integrity,1,HC-DR-250a.2,"Number of drug recalls issued, total units recalled, percentage for private-label products"
+296,,Management of Controlled Substances,1,HC-DR-260a.1,Percentage of controlled substance prescriptions dispensed for which a prescription drug monitoring program (PDMP) database was queried
+297,,Management of Controlled Substances,1,HC-DR-260a.2,Total amount of monetary losses as a result of legal proceedings associated with controlled substances
+298,,Patient Health Outcomes,1,HC-DR-260b.1,First fill adherence rate
+300,,Patient Health Outcomes,1,HC-DR-260b.3,Total amount of monetary losses as a result of legal proceedings associated with prescription dispensing errors
+301,E-COMMERCE,Hardware Infrastructure Energy & Water Management,1,CG-EC-130a.1,"(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable"
+302,,Hardware Infrastructure Energy & Water Management,1,CG-EC-130a.2,"(1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress"
+304,,Data Privacy & Advertising Standards,1,CG-EC-220a.1,Number of users whose information is used for secondary purposes
+307,,Data Security,1,CG-EC-230a.2,"(1) Number of data breaches, (2) percentage involving personally identifiable information (PII), (3) number of users affected"
+308,,"Employee Recruitment, Inclusion & Performance",1,CG-EC-330a.1,Employee engagement as a percentage
+309,,"Employee Recruitment, Inclusion & Performance",1,CG-EC-330a.2,(1) Voluntary and (2) involuntary turnover rate for all employees
+310,,"Employee Recruitment, Inclusion & Performance",1,CG-EC-330a.3,"Percentage of gender and racial/ethnic group representation for (1) management, (2) technical staff, and (3) all other employees"
+311,,"Employee Recruitment, Inclusion & Performance",1,CG-EC-330a.4,Percentage of technical employees who are H-1B visa holders
+312,,Product Packaging & Distribution,1,CG-EC-410a.1,Total greenhouse gas (GHG) footprint of product shipments
+316,,Data Security,1,SV-ED-230a.3,"(1) Number of data breaches, (2) percentage involving personally identifiable information (PII), (3) number of students affected"
+317,,Quality of Education & Gainful Employment,1,SV-ED-260a.1,Graduation rate
+318,,Quality of Education & Gainful Employment,1,SV-ED-260a.2,On-time completion rate
+319,,Quality of Education & Gainful Employment,1,SV-ED-260a.3,Job placement rate
+320,,Quality of Education & Gainful Employment,1,SV-ED-260a.4,(1) Debt-to-annual earnings rate and (2) debt-to-discretionary income rate
+321,,Quality of Education & Gainful Employment,1,SV-ED-260a.5,Program cohort default rate
+323,,Marketing & Recruiting Practices,1,SV-ED-270a.2,"Total amount of monetary losses as a result of legal proceedings associated with advertising, marketing, and mandatory disclosures"
+324,,Marketing & Recruiting Practices,1,SV-ED-270a.3,(1) Instruction and student services expenses and (2) marketing and recruiting expenses
+325,,Marketing & Recruiting Practices,1,SV-ED-270a.4,"Revenue from: (1) Title IV funding, (2) GI Bill funding, and (3) private student loans"
+326,ELECTRIC UTILITIES & POWER,Greenhouse Gas Emissions & Energy Resource Planning,1,IF-EU-110a.1,"(1) Gross global Scope 1 emissions, percentage covered under (2) emissions-limiting regulations, and (3) emissions-reporting regulations"
+327,,Greenhouse Gas Emissions & Energy Resource Planning,1,IF-EU-110a.2,Greenhouse gas (GHG) emissions associated with power deliveries
+329,,Greenhouse Gas Emissions & Energy Resource Planning,1,IF-EU-110a.4,(1) Number of customers served in markets subject to renewable portfolio standards (RPS) and (2) percentage fulfillment of RPS target by market
+330,,Air Quality,1,IF-EU-120a.1,"Air emissions of the following pollutants: (1) NOx (excluding N2O), (2) SOx, (3) particulate matter (PM10), (4) lead (Pb), and (5) mercury (Hg); percentage of each in or near areas of dense population"
+331,,Water Management,1,IF-EU-140a.1,"(1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress"
+332,,Water Management,1,IF-EU-140a.2,"Number of incidents of non-compliance associated with water quantity and/or quality permits, standards, and regulations"
+334,,Coal Ash Management,1,IF-EU-150a.1,"Amount of coal combustion residuals (CCR) generated, percentage recycled"
+335,,Coal Ash Management,1,IF-EU-150a.2,"Total number of coal combustion residual (CCR) impoundments, broken down by hazard potential classification and structural integrity assessment"
+336,,Energy Affordability,1,IF-EU-240a.1,"Average retail electric rate for (1) residential, (2) commercial, and (3) industrial customers"
+337,,Energy Affordability,1,IF-EU-240a.2,"Typical monthly electric bill for residential customers for (1) 500 kWh and (2) 1,000 kWh of electricity delivered per month"
+338,,Energy Affordability,1,IF-EU-240a.3,"Number of residential customer electric disconnections for non-payment, percentage reconnected within 30 days"
+340,,Workforce Health & Safety,1,IF-EU-320a.1,"(1) Total recordable incident rate (TRIR), (2) fatality rate, and (3) near miss frequency rate (NMFR)"
+341,,End-Use Efficiency & Demand,1,IF-EU-420a.1,Percentage of electric utility revenues from rate structures that (1) are decoupled and (2) contain a lost revenue adjustment mechanism (LRAM)
+342,,End-Use Efficiency & Demand,1,IF-EU-420a.2,Percentage of electric load served by smart grid technology
+343,,End-Use Efficiency & Demand,1,IF-EU-420a.3,"Customer electricity savings from efficiency measures, by market"
+344,,Nuclear Safety & Emergency Management,1,IF-EU-540a.1,"Total number of nuclear power units, broken down by U.S. Nuclear Regulatory Commission (NRC) Action Matrix Column"
+346,,Grid Resiliency,1,IF-EU-550a.1,Number of incidents of non-compliance with physical and/or cybersecurity standards or regulations
+347,,Grid Resiliency,1,IF-EU-550a.2,"(1) System Average Interruption Duration Index (SAIDI), (2) System Average Interruption Frequency Index (SAIFI), and (3) Customer Average Interruption Duration Index (CAIDI), inclusive of major event days"
+348,ELECTRICAL & ELECTRONIC EQUIPMENT,Energy Management,1,RT-EE-130a.1,"(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable"
+349,,Hazardous Waste Management,1,RT-EE-150a.1,"Amount of hazardous waste generated, percentage recycled"
+350,,Hazardous Waste Management,1,RT-EE-150a.2,"Number and aggregate quantity of reportable spills, quantity recovered"
+351,,Product Safety,1,RT-EE-250a.1,"Number of recalls issued, total units recalled"
+352,,Product Safety,1,RT-EE-250a.2,Total amount of monetary losses as a result of legal proceedings associated with product safety
+353,,Product Lifecycle Management,1,RT-EE-410a.1,Percentage of products by revenue that contain IEC 62474 declarable substances
+354,,Product Lifecycle Management,1,RT-EE-410a.2,"Percentage of eligible products, by revenue, that meet ENERGY STAR® criteria"
+355,,Product Lifecycle Management,1,RT-EE-410a.3,Revenue from renewable energy-related and energy efficiency-related products
+358,,Business Ethics,1,RT-EE-510a.2,Total amount of monetary losses as a result of legal proceedings associated with bribery or corruption
+359,,Business Ethics,1,RT-EE-510a.3,Total amount of monetary losses as a result of legal proceedings associated with anti-competitive behavior regulations
+360,ELECTRONIC MANUFACTURING,Water Management,1,TC-ES-140a.1,"(1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress"
+361,,Waste Management,1,TC-ES-150a.1,"Amount of hazardous waste from manufacturing, percentage recycled"
+362,,Labor Practices,1,TC-ES-310a.1,(1) Number of work stoppages and (2) total days idle
+363,,Labor Conditions,1,TC-ES-320a.1,(1) Total recordable incident rate (TRIR) and (2) near miss frequency rate (NMFR) for (a) direct employees and (b) contract employees
+364,,Labor Conditions,1,TC-ES-320a.2,"Percentage of (1) entity’s facilities and (2) Tier 1 supplier facilities audited in the RBA Validated Audit Process (VAP) or equivalent, by (a) all facilities and (b) high-risk facilities"
+365,,Labor Conditions,1,TC-ES-320a.3,"(1) Non-conformance rate with the RBA Validated Audit Process (VAP) or equivalent and (2) associated corrective action rate for (a) priority non-conformances and (b) other non-conformances, broken down for (i) the entity’s facilities and (ii) the entity’s Tier 1 supplier facilities"
+366,,Product Lifecycle Management,1,TC-ES-410a.1,"Weight of end-of-life products and e-waste recovered, percentage recycled"
+368,ENGINEERING & CONSTRUCTION,Environmental Impacts of Project Development,1,IF-EN-160a.1,"Number of incidents of non-compliance with environmental permits, standards, and regulations"
+370,,Structural Integrity & Safety,1,IF-EN-250a.1,Amount of defect- and safety-related rework costs
+371,,Structural Integrity & Safety,1,IF-EN-250a.2,Total amount of monetary losses as a result of legal proceedings associated with defect- and safety-related incidents
+372,,Workforce Health & Safety,1,IF-EN-320a.1,(1) Total recordable incident rate (TRIR) and (2) fatality rate for (a) direct employees and (b) contract employees
+373,,Lifecycle Impacts of Buildings & Infrastructure,1,IF-EN-410a.1,Number of (1) commissioned projects certified to a third-party multi-attribute sustainability standard and (2) active projects seeking such certification
+375,,Climate Impacts of Business Mix,1,IF-EN-410b.1,Amount of backlog for (1) hydrocarbon-related projects and (2) renewable energy projects
+376,,Climate Impacts of Business Mix,1,IF-EN-410b.2,Amount of backlog cancellations associated with hydrocarbon-related projects
+377,,Climate Impacts of Business Mix,1,IF-EN-410b.3,Amount of backlog for non-energy projects associated with climate change mitigation
+378,,Business Ethics,1,IF-EN-510a.1,(1) Number of active projects and (2) backlog in countries that have the 20 lowest rankings in Transparency International’s Corruption Perception Index
+379,,Business Ethics,1,IF-EN-510a.2,Total amount of monetary losses as a result of legal proceedings associated with charges of (1) bribery or corruption and (2) anti-competitive practices
+381,FOOD RETAILERS & DISTRIBUTORS,Fleet Fuel Management,1,FB-FR-110a.1,"Fleet fuel consumed, percentage renewable"
+382,,Air Emissions from Refrigeration,1,FB-FR-110b.1,Gross global Scope 1 emissions from refrigerants
+383,,Air Emissions from Refrigeration,1,FB-FR-110b.2,Percentage of refrigerants consumed with zero ozone-depleting potential
+384,,Air Emissions from Refrigeration,1,FB-FR-110b.3,Average refrigerant emissions rate
+385,,Energy Management,1,FB-FR-130a.1,"(1) Operational energy consumed, (2) percentage grid electricity, (3) percentage renewable"
+386,,Food Waste Management,1,FB-FR-150a.1,"Amount of food waste generated, percentage diverted from the waste stream"
+387,,Data Security,1,FB-FR-230a.1,"(1) Number of data breaches, (2) percentage involving personally identifiable information (PII), (3) number of customers affected"
+389,,Food Safety,1,FB-FR-250a.1,High-risk food safety violation rate
+390,,Food Safety,1,FB-FR-250a.2,"(1) Number of recalls, (2) number of units recalled, (3) percentage of units recalled that are private-label products"
+391,,Product Health & Nutrition,1,FB-FR-260a.1,Revenue from products labeled and/or marketed to promote health and nutrition attributes
+393,,Product Labeling & Marketing,1,FB-FR-270a.1,Number of incidents of non-compliance with industry or regulatory labeling and/or marketing codes
+394,,Product Labeling & Marketing,1,FB-FR-270a.2,Total amount of monetary losses as a result of legal proceedings associated with marketing and/or labeling practices
+395,,Product Labeling & Marketing,1,FB-FR-270a.3,Revenue from products labeled as (1) containing genetically modified organisms (GMOs) and (2) non-GMO
+396,,Labor Practices,1,FB-FR-310a.1,"(1) Average hourly wage and (2) percentage of in-store and distribution center employees earning minimum wage, by region"
+397,,Labor Practices,1,FB-FR-310a.2,Percentage of active workforce covered under collective bargaining agreements
+398,,Labor Practices,1,FB-FR-310a.3,(1) Number of work stoppages and (2) total days idle
+399,,Labor Practices,1,FB-FR-310a.4,Total amount of monetary losses as a result of legal proceedings associated with: (1) labor law violations and (2) employment discrimination
+400,,Management of Environmental & Social Impacts in the Supply Chain,1,FB-FR-430a.1,Revenue from products third-party certified to environmental or social sustainability sourcing standards
+401,,Management of Environmental & Social Impacts in the Supply Chain,1,FB-FR-430a.2,Percentage of revenue from (1) eggs that originated from a cage-free environment and (2) pork produced without the use of gestation crates
+404,FORESTRY MANAGEMENT,Ecosystem Services & Impacts,1,RR-FM-160a.1,"Area of forestland certified to a third-party forest management standard, percentage certified to each standard"
+405,,Ecosystem Services & Impacts,1,RR-FM-160a.2,Area of forestland with protected conservation status
+406,,Ecosystem Services & Impacts,1,RR-FM-160a.3,Area of forestland in endangered species habitat
+408,,Rights of Indigenous Peoples,1,RR-FM-210a.1,Area of forestland in indigenous land
+411,FUEL CELLS & INDUSTRIAL BATTERIES,Energy Management,1,RR-FC-130a.1,"(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable"
+412,,Workforce Health & Safety,1,RR-FC-440a.1,Description of the management of risks associated with the use of critical materials
+413,,Workforce Health & Safety,1,RR-FC-410a.1,"Average storage capacity of batteries, by product application and technology type"
+414,,Product Efficiency,1,RR-FC-410a.2,"Average energy efficiency of fuel cells as (1) electrical efficiency and (2) thermal efficiency, by product application and technology type"
+415,,Product Efficiency,1,RR-FC-410a.3,"Average battery efficiency as coulombic efficiency, by product application and technology type"
+416,,Product Efficiency,1,RR-FC-410a.4,"Average operating lifetime of fuel cells, by product application and technology type"
+417,,Product Efficiency,1,RR-FC-410a.5,"Average operating lifetime of batteries, by product application and technology type"
+418,,Product End-of-life Management,1,RR-FC-410b.1,Percentage of products sold that are recyclable or reusable
+419,,Product End-of-life Management,1,RR-FC-410b.2,"Weight of end-of-life material recovered, percentage recycled"
+421,,Materials Sourcing,1,RR-FC-320a.1,(1) Total recordable incident rate (TRIR) and (2) fatality rate
+423,GAS UTILITIES & DISTRIBUTORS,Energy Affordability,1,IF-GU-240a.1,"Average retail gas rate for (1) residential, (2) commercial, (3) industrial customers, and (4) transportation services only"
+424,,Energy Affordability,1,IF-GU-240a.2,Typical monthly gas bill for residential customers for (1) 50 MMBtu and (2) 100 MMBtu of gas delivered per year
+425,,Energy Affordability,1,IF-GU-240a.3,"Number of residential customer gas disconnections for non-payment, percentage reconnected within 30 days"
+427,,End-Use Efficiency,1,IF-GU-420a.1,Percentage of gas utility revenues from rate structures that (1) are decoupled or (2) contain a lost revenue adjustment mechanism (LRAM)
+428,,End-Use Efficiency,1,IF-GU-420a.2,Customer gas savings from efficiency measures by market
+429,,Integrity of Gas Delivery Infrastructure,1,IF-GU-540a.1,"Number of (1) reportable pipeline incidents, (2) Corrective Action Orders (CAO), and (3) Notices of Probable Violation (NOPV)"
+430,,Integrity of Gas Delivery Infrastructure,1,IF-GU-540a.2,Percentage of distribution pipeline that is (1) cast and/or wrought iron and (2) unprotected steel
+431,,Integrity of Gas Delivery Infrastructure,1,IF-GU-540a.3,Percentage of gas (1) transmission and (2) distribution pipelines inspected
+434,,Employee Diversity & Inclusion,1,TC-HW-330a.1,"Percentage of gender and racial/ethnic group representation for (1) management, (2) technical staff, and (3) all other employees"
+435,,Product Lifecycle Management,1,TC-HW-410a.1,Percentage of products by revenue that contain IEC 62474 declarable substances
+436,,Product Lifecycle Management,1,TC-HW-410a.2,"Percentage of eligible products, by revenue, meeting the requirements for EPEAT registration or equivalent"
+437,,Product Lifecycle Management,1,TC-HW-410a.3,"Percentage of eligible products, by revenue, meeting ENERGY STAR® criteria"
+438,,Product Lifecycle Management,1,TC-HW-410a.4,"Weight of end-of-life products and e-waste recovered, percentage recycled"
+439,,Supply Chain Management,1,TC-HW-430a.1,"Percentage of Tier 1 supplier facilities audited in the RBA Validated Audit Process (VAP) or equivalent, by (a) all facilities and (b) high-risk facilities"
+440,,Supply Chain Management,1,TC-HW-430a.2,"Tier 1 suppliers’ (1) non-conformance rate with the RBA Validated Audit Process (VAP) or equivalent, and (2) associated corrective action rate for (a) priority non-conformances and (b) other non-conformances"
+442,HEALTH CARE DELIVERY,Energy Management,1,HC-DY-130a.1,"(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable"
+443,,Waste Management,1,HC-DY-150a.1,"Total amount of medical waste, percentage (a) incinerated, (b) recycled or treated, and (c) landfilled"
+444,,Waste Management,1,HC-DY-150a.2,"Total amount of: (1) hazardous and (2) non-hazardous pharmaceutical waste, percentage (a) incinerated, (b) recycled or treated, and (c) landfilled"
+445,,Patient Privacy & Electronic Health Records,1,HC-DY-230a.1,"Percentage of patient records that are Electronic Health Records (EHR) that meet ""meaningful use"" requirements"
+447,,Patient Privacy & Electronic Health Records,1,HC-DY-230a.3,"(1) Number of data breaches, (2) percentage involving (a) personally identifiable information (PII) only and (b) protected health information (PHI), (3) number of customers affected in each category, (a) PII only and (b) PHI"
+448,,Patient Privacy & Electronic Health Records,1,HC-DY-230a.4,Total amount of monetary losses as a result of legal proceedings associated with data security and privacy
+450,,Access for Low-Income Patients,1,HC-DY-240a.2,Amount of Medicare Disproportionate Share Hospital (DSH) adjustment payments received
+451,,Quality of Care & Patient Satisfaction,1,HC-DY-250a.1,"Average Hospital Value-Based Purchasing Total Performance Score and domain score, across all facilities"
+452,,Quality of Care & Patient Satisfaction,1,HC-DY-250a.2,Number of Serious Reportable Events (SREs) as defined by the National Quality Forum (NQF)
+453,,Quality of Care & Patient Satisfaction,1,HC-DY-250a.3,Hospital-Acquired Condition (HAC) Score per hospital
+454,,Quality of Care & Patient Satisfaction,1,HC-DY-250a.4,Excess readmission ratio per hospital
+455,,Quality of Care & Patient Satisfaction,1,HC-DY-250a.5,Magnitude of readmissions payment adjustment as part of the Hospital Readmissions Reduction Program (HRRP)
+457,,Management of Controlled Substances,1,HC-DY-260a.2,Percentage of controlled substance prescriptions written for which a prescription drug monitoring program (PDMP) database was queried
+460,,Pricing & Billing Transparency,1,HC-DY-270a.3,"Number of the entity’s 25 most common services for which pricing information is publicly available, percentage of total services performed (by volume) that these represent"
+461,,Employee Health & Safety,1,HC-DY-320a.1,"(1) Total recordable incident rate (TRIR) and (2) days away, restricted, or transferred (DART) rate"
+462,,"Employee Recruitment, Development & Retention",1,HC-DY-330a.1,"(1) Voluntary and (2) involuntary turnover rate for: (a) physicians, (b) non-physician health care practitioners, and (c) all other employees"
+465,,Climate Change Impacts on Human Health & Infrastructure,1,HC-DY-450a.2,Percentage of health care facilities that comply with the Centers for Medicare and Medicaid Services (CMS) Emergency Preparedness Rule
+466,,Fraud & Unnecessary Procedures,1,HC-DY-510a.1,Total amount of monetary losses as a result of legal proceedings associated with Medicare and Medicaid fraud under the False Claims Act
+467,HEALTH CARE DISTRIBUTORS,Fleet Fuel Management,1,HC-DI-110a.1,Payload fuel economy
+469,,Product Safety,1,HC-DI-250a.1,Total amount of monetary losses as a result of legal proceedings associated with product safety
+475,,Product Lifecycle Management,1,HC-DI-410a.2,"Amount (by weight) of products accepted for take-back and reused, recycled, or donated"
+477,,Business Ethics,1,HC-DI-510a.2,"Total amount of monetary losses as a result of legal proceedings associated with bribery, corruption, or other unethical business practices"
+478,HOME BUILDERS,Land Use & Ecological Impacts,1,IF-HB-160a.1,Number of (1) lots and (2) homes delivered on redevelopment sites
+479,,Land Use & Ecological Impacts,1,IF-HB-160a.2,Number of (1) lots and (2) homes delivered in regions with High or Extremely High Baseline Water Stress
+480,,Land Use & Ecological Impacts,1,IF-HB-160a.3,Total amount of monetary losses as a result of legal proceedings associated with environmental regulations
+482,,Workforce Health & Safety,1,IF-HB-320a.1,(1) Total recordable incident rate (TRIR) and (2) fatality rate for (a) direct employees and (b) contract employees
+483,,Design for Resource Efficiency,1,IF-HB-410a.1,(1) Number of homes that obtained a certified HERS® Index Score and (2) average score
+484,,Design for Resource Efficiency,1,IF-HB-410a.2,Percentage of installed water fixtures certified to WaterSense® specifications
+485,,Design for Resource Efficiency,1,IF-HB-410a.3,Number of homes delivered certified to a third-party multi-attribute green building standard
+488,,Community Impacts of New Developments,1,IF-HB-410b.2,Number of (1) lots and (2) homes delivered on infill sites
+489,,Community Impacts of New Developments,1,IF-HB-410b.3,(1) Number of homes delivered in compact developments and (2) average density
+490,,Climate Change Adaptation,1,IF-HB-420a.1,Number of lots located in 100-year flood zones
+492,HOTELS & LODGING,Energy Management,1,SV-HL-130a.1,"(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable"
+493,,Water Management,1,SV-HL-140a.1,"(1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress"
+494,,Ecological Impacts,1,SV-HL-160a.1,Number of lodging facilities located in or near areas of protected conservation status or endangered species habitat
+496,,Labor Practices,1,SV-HL-310a.1,(1) Voluntary and (2) involuntary turnover rate for lodging facility employees
+497,,Labor Practices,1,SV-HL-310a.2,Total amount of monetary losses as a result of legal proceedings associated with labor law violations
+498,,Labor Practices,1,SV-HL-310a.3,"(1) Average hourly wage and (2) percentage of lodging facility employees earning minimum wage, by region"
+500,,Climate Change Adaptation,1,SV-HL-450a.1,Number of lodging facilities located in 100-year flood zones
+501,HOUSEHOLD & PERSONAL PRODUCTS,Water Management,1,CG-HP-140a.1,"(1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress"
+503,,"Product Environmental, Health, and Safety Performance",1,CG-HP-250a.1,Revenue from products that contain REACH substances of very high concern (SVHC)
+504,,"Product Environmental, Health, and Safety Performance",1,CG-HP-250a.2,Revenue from products that contain substances on the California DTSC Candidate Chemicals List
+506,,"Product Environmental, Health, and Safety Performance",1,CG-HP-250a.4,Revenue from products designed with green chemistry principles
+507,,Packaging Lifecycle Management,1,CG-HP-410a.1,"(1) Total weight of packaging, (2) percentage made from recycled and/or renewable materials, and (3) percentage that is recyclable, reusable, and/or compostable"
+509,,Environmental & Social Impacts of Palm Oil Supply,1,CG-HP-430a.1,"Amount of palm oil sourced, percentage certified through the Roundtable on Sustainable Palm Oil (RSPO) supply chains as (a) Identity Preserved, (b) Segregated, (c) Mass Balance, or (d) Book & Claim"
+510,INDUSTRIAL MACHINERY & GOODS,Energy Management,1,RT-IG-130a.1,"(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable"
+511,,Employee Health & Safety,1,RT-IG-320a.1,"(1) Total recordable incident rate (TRIR), (2) fatality rate, and (3) near miss frequency rate (NMFR)"
+512,,Fuel Economy & Emissions in Use-phase,1,RT-IG-410a.1,Sales-weighted fleet fuel efficiency for medium- and heavy-duty vehicles
+513,,Fuel Economy & Emissions in Use-phase,1,RT-IG-410a.2,Sales-weighted fuel efficiency for non-road equipment
+514,,Fuel Economy & Emissions in Use-phase,1,RT-IG-410a.3,Sales-weighted fuel efficiency for stationary generators
+515,,Fuel Economy & Emissions in Use-phase,1,RT-IG-410a.4,"Sales-weighted emissions of: (1) nitrogen oxides (NOx) and (2) particulate matter (PM) for: (a) marine diesel engines, (b) locomotive diesel engines, (c) on-road medium- and heavy-duty engines, and (d) other non-road diesel engines"
+517,,Remanufacturing Design & Services,1,RT-IG-440b.1,Revenue from remanufactured products and remanufacturing services
+518,INSURANCE,Transparent Information & Fair Advice for Customers,1,FN-IN-270a.1,Total amount of monetary losses as a result of legal proceedings associated with marketing and communication of insurance product-related information to new and returning customers
+519,,Transparent Information & Fair Advice for Customers,1,FN-IN-270a.2,Complaints-to-claims ratio
+520,,Transparent Information & Fair Advice for Customers,1,FN-IN-270a.3,Customer retention rate
+522,,"Incorporation of Environmental, Social, and Governance Factors in Investment Management",1,FN-IN-410a.1,"Total invested assets, by industry and asset class"
+524,,Policies Designed to Incentivize Responsible Behavior,1,FN-IN-410b.1,Net premiums written related to energy efficiency and low carbon technology
+526,,Environmental Risk Exposure,1,FN-IN-450a.1,Probable Maximum Loss (PML) of insured products from weather-related natural catastrophes
+527,,Environmental Risk Exposure,1,FN-IN-450a.2,"Total amount of monetary losses attributable to insurance payouts from (1) modeled natural catastrophes and (2) non-modeled natural catastrophes, by type of event and geographic segment (net and gross of reinsurance)"
+529,,Systemic Risk Management,1,FN-IN-550a.1,"Exposure to derivative instruments by category: (1) total potential exposure to non-centrally cleared derivatives, (2) total fair value of acceptable collateral posted with the Central Clearinghouse, and (3) total potential exposure to centrally cleared derivatives"
+530,,Systemic Risk Management,1,FN-IN-550a.2,Total fair value of securities lending collateral assets
+532,INTERNET MEDIA & SERVICES,Environmental Footprint of Hardware Infrastructure,1,TC-IM-130a.1,"(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable"
+533,,Environmental Footprint of Hardware Infrastructure,1,TC-IM-130a.2,"(1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress"
+536,,"Data Privacy, Advertising Standards & Freedom of Expression",1,TC-IM-220a.2,Number of users whose information is used for secondary purposes
+537,,"Data Privacy, Advertising Standards & Freedom of Expression",1,TC-IM-220a.3,Total amount of monetary losses as a result of legal proceedings associated with user privacy
+538,,"Data Privacy, Advertising Standards & Freedom of Expression",1,TC-IM-220a.4,"(1) Number of law enforcement requests for user information, (2) number of users whose information was requested, (3) percentage resulting in disclosure"
+540,,"Data Privacy, Advertising Standards & Freedom of Expression",1,TC-IM-220a.6,"Number of government requests to remove content, percentage compliance with requests"
+541,,Data Security,1,TC-IM-230a.1,"(1) Number of data breaches, (2) percentage involving personally identifiable information (PII), (3) number of users affected"
+543,,"Employee Recruitment, Inclusion & Performance",1,TC-IM-330a.1,Percentage of employees that are foreign nationals
+544,,"Employee Recruitment, Inclusion & Performance",1,TC-IM-330a.2,Employee engagement as a percentage
+545,,"Employee Recruitment, Inclusion & Performance",1,TC-IM-330a.3,"Percentage of gender and racial/ethnic group representation for (1) management, (2) technical staff, and (3) all other employees"
+546,,Intellectual Property Protection & Competitive Behavior,1,TC-IM-520a.1,Total amount of monetary losses as a result of legal proceedings associated with anti-competitive behavior regulations
+547,INVESTMENT BANKING & BROKERAGE,Employee Diversity & Inclusion,1,FN-IB-330a.1,"Percentage of gender and racial/ethnic group representation for (1) executive management, (2) non-executive management, (3) professionals, and (4) all other employees"
+548,,"Incorporation of Environmental, Social, and Governance Factors in Investment Banking & Brokerage Activities",1,FN-IB-410a.1,"Revenue from (1) underwriting, (2) advisory, and (3) securitization transactions incorporating integration of environmental, social, and governance (ESG) factors, by industry"
+549,,"Incorporation of Environmental, Social, and Governance Factors in Investment Banking & Brokerage Activities",1,FN-IB-410a.2,"(1) Number and (2) total value of investments and loans incorporating integration of environmental, social, and governance (ESG) factors, by industry"
+551,,Business Ethics,1,FN-IB-510a.1,"Total amount of monetary losses as a result of legal proceedings associated with fraud, insider trading, anti-trust, anti-competitive behavior, market manipulation, malpractice, or other related financial industry laws or regulations"
+553,,Professional Integrity,1,FN-IB-510b.1,"(1) Number and (2) percentage of covered employees with a record of investment-related investigations, consumer-initiated complaints, private civil litigations, or other regulatory proceedings"
+554,,Professional Integrity,1,FN-IB-510b.2,"Number of mediation and arbitration cases associated with professional integrity, including duty of care, by party"
+555,,Professional Integrity,1,FN-IB-510b.3,"Total amount of monetary losses as a result of legal proceedings associated with professional integrity, including duty of care"
+557,,Systemic Risk Management,1,FN-IB-550a.1,"Global Systemically Important Bank (G-SIB) score, by category"
+559,,Employee Incentives & Risk Taking,1,FN-IB-550b.1,Percentage of total remuneration that is variable for Material Risk Takers (MRTs)
+560,,Employee Incentives & Risk Taking,1,FN-IB-550b.2,Percentage of variable remuneration of Material Risk Takers (MRTs) to which malus or clawback provisions were applied
+562,IRON & STEEL PRODUCERS,Greenhouse Gas Emissions,1,EM-IS-110a.1,"Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations"
+564,,Air Emissions,1,EM-IS-120a.1,"Air emissions of the following pollutants: (1) CO, (2) NOx (excluding N2O), (3) SOx, (4) particulate matter (PM10), (5) manganese (MnO), (6) lead (Pb), (7) volatile organic compounds (VOCs), and (8) polycyclic aromatic hydrocarbons (PAHs)"
+565,,Energy Management,1,EM-IS-130a.1,"(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable"
+566,,Energy Management,1,EM-IS-130a.2,"(1) Total fuel consumed, (2) percentage coal, (3) percentage natural gas, (4) percentage renewable"
+567,,Water Management,1,EM-IS-140a.1,"(1) Total fresh water withdrawn, (2) percentage recycled, (3) percentage in regions with High or Extremely High Baseline Water Stress"
+568,,Waste Management,1,EM-IS-150a.1,"Amount of waste generated, percentage hazardous, percentage recycled"
+569,,Workforce Health & Safety,1,EM-IS-320a.1,"(1) Total recordable incident rate (TRIR), (2) fatality rate, and (3) near miss frequency rate (NMFR) for (a) full-time employees and (b) contract employees"
+571,LEISURE FACILITIES,Energy Management,1,SV-LF-130a.1,"(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable"
+572,,Customor Safety,1,SV-LF-250a.1,(1) Fatality rate and (2) injury rate for customers
+573,,Customor Safety,1,SV-LF-250a.2,"Percentage of facilities inspected for safety, percentage of facilities that failed inspection"
+574,,Workforce Safety,1,SV-LF-320a.1,(1) Total recordable incident rate (TRIR) and (2) near miss frequency rate (NMFR) for (a) permanent employees and (b) seasonal employees
+576,,Customer Privacy & Technology Standards,1,HC-MC-230a.2,"(1) Number of data breaches, (2) percentage involving (a) personally identifiable information (PII) only and (b) protected health information (PHI), (3) number of customers affected in each category, (a) PII only and (b) PHI"
+577,,Customer Privacy & Technology Standards,1,HC-MC-230a.3,Total amount of monetary losses as a result of legal proceedings associated with data security and privacy
+578,,Access to Coverage,1,HC-MC-240a.1,Medical Loss Ratio (MLR)
+579,,Access to Coverage,1,HC-MC-240a.2,Total amount of rebates accrued and paid due to non-compliance with the Patient Protection and Affordable Care Act for Medical Loss Ratio (MLR)   
+580,,Access to Coverage,1,HC-MC-240a.3,Percentage of proposed rate increases receiving “not unreasonable” designation from Health and Human Services (HHS) review or state review
+581,,Plan Performance,1,HC-MC-250a.1,"Average Medicare Advantage plan rating for each of the following plan types: (1) HMO, (2) local PPO, (3) regional PPO, (4) PFFS, and (5) SNP"
+582,,Plan Performance,1,HC-MC-250a.2,"Enrollee retention rate by plan type, including: (1) HMO, (2) local PPO, (3) regional PPO, (4) PFFS, and (5) SNP"
+583,,Plan Performance,1,HC-MC-250a.3,Percentage of claims denied that were appealed by customers and ultimately reversed
+584,,Plan Performance,1,HC-MC-250a.4,Plan enrollee grievance rate
+585,,Improved Outcomes,1,HC-MC-260a.1,"Percentage of enrollees in wellness programs by type: (1) diet and nutrition, (2) exercise, (3) stress management, (4) mental health, (5) smoking or alcohol cessation, or (6) other"
+586,,Improved Outcomes,1,HC-MC-260a.2,"Total coverage for preventive health services with no cost sharing for the enrollees, total coverage for preventive health services requiring cost-sharing by the enrollee, percentage of enrollees receiving Initial Preventive Physical Examinations (IPEE) or Annual Wellness Visits (AWV)"
+587,,Improved Outcomes,1,HC-MC-260a.3,Number of customers receiving care from Accountable Care Organizations or enrolled in Patient-Centered Medical Home programs
+589,MARINE TRANSPORTATION,Greenhouse Gas Emissions,1,TR-MT-110a.1,Gross global Scope 1 emissions
+591,,Greenhouse Gas Emissions,1,TR-MT-110a.3,"(1) Total energy consumed, (2) percentage heavy fuel oil, (3) percentage renewable"
+592,,Greenhouse Gas Emissions,1,TR-MT-110a.4,Average Energy Efficiency Design Index (EEDI) for new ships
+593,,Air Quality,1,TR-MT-120a.1,"Air emissions of the following pollutants: (1) NOx (excluding N2O), (2) SOx, and (3) particulate matter (PM10)"
+594,,Ecological Impacts,1,TR-MT-160a.1,Shipping duration in marine protected areas or areas of protected conservation status
+595,,Ecological Impacts,1,TR-MT-160a.2,Percentage of fleet implementing ballast water (1) exchange and (2) treatment
+596,,Ecological Impacts,1,TR-MT-160a.3,(1) Number and (2) aggregate volume of spills and releases to the environment
+597,,Employee Health & Safety,1,TR-MT-320a.1,Lost time incident rate (LTIR)
+598,,Business Ethics,1,TR-MT-510a.1,Number of calls at ports in countries that have the 20 lowest rankings in Transparency International’s Corruption Perception Index
+599,,Business Ethics,1,TR-MT-510a.2,Total amount of monetary losses as a result of legal proceedings associated with bribery or corruption
+600,,Accident & Safety Management,1,TR-MT-540a.1,"Number of marine casualties, percentage classified as very serious"
+601,,Accident & Safety Management,1,TR-MT-540a.2,Number of Conditions of Class or Recommendations
+602,,Accident & Safety Management,1,TR-MT-540a.3,Number of port state control (1) deficiencies and (2) detentions
+603,"MEAT, POULTRY & DAIRY",Greenhouse Gas Emissions,1,FB-MP-110a.1,Gross global Scope 1 emissions
+605,,Energy Management,1,FB-MP-130a.1,"(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable"
+606,,Water Management,1,FB-MP-140a.1,"(1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress"
+608,,Water Management,1,FB-MP-140a.3,"Number of incidents of non-compliance with water quality permits, standards, and regulations"
+609,,Land Use & Ecological Impacts,1,FB-MP-160a.1,"Amount of animal litter and manure generated, percentage managed according to a nutrient management plan"
+610,,Land Use & Ecological Impacts,1,FB-MP-160a.2,Percentage of pasture and grazing land managed to Natural Resources Conservation Service (NRCS) conservation plan criteria
+611,,Land Use & Ecological Impacts,1,FB-MP-160a.3,Animal protein production from concentrated animal feeding operations (CAFOs)
+612,,Food Safety,1,FB-MP-250a.1,Global Food Safety Initiative (GFSI) audit (1) non-conformance rate and (2) associated corrective action rate for (a) major and (b) minor non-conformances
+613,,Food Safety,1,FB-MP-250a.2,Percentage of supplier facilities certified to a Global Food Safety Initiative (GFSI) food safety certification program
+614,,Food Safety,1,FB-MP-250a.3,(1) Number of recalls issued and (2) total weight of products recalled
+616,,Antibiotic Use in Animal Production,1,FB-MP-260a.1,"Percentage of animal production that received (1) medically important antibiotics and (2) not medically important antibiotics, by animal type"
+617,,Workforce Health & Safety,1,FB-MP-320a.1,(1) Total recordable incident rate (TRIR) and (2) fatality rate
+619,,Animal Care & Welfare,1,FB-MP-410a.1,Percentage of pork produced without the use of gestation crates
+620,,Animal Care & Welfare,1,FB-MP-410a.2,Percentage of cage-free shell egg sales
+621,,Animal Care & Welfare,1,FB-MP-410a.3,Percentage of production certified to a third-party animal welfare standard
+622,,Environmental & Social Impacts of Animal Supply Chain,1,FB-MP-430a.1,Percentage of livestock from suppliers implementing the Natural Resources Conservation Service (NRCS) conservation plan criteria or the equivalent
+623,,Environmental & Social Impacts of Animal Supply Chain,1,FB-MP-430a.2,Percentage of supplier and contract production facilities verified to meet animal welfare standards
+624,,Animal & Feed Sourcing,1,FB-MP-440a.1,Percentage of animal feed sourced from regions with High or Extremely High Baseline Water Stress
+625,,Animal & Feed Sourcing,1,FB-MP-440a.2,Percentage of contracts with producers located in regions with High or Extremely High Baseline Water Stress
+627,MEDIA & ENTERTAINMENT,Media Pluralism,1,SV-ME-260a.1,"Percentage of gender and racial/ethnic group representation for (1) management, (2) professionals, and (3) all other employees"
+629,,Journalistic Integrity & Sponsorship Identification,1,SV-ME-270a.1,Total amount of monetary losses as a result of legal proceedings associated with libel or slander
+630,,Journalistic Integrity & Sponsorship Identification,1,SV-ME-270a.2,Revenue from embedded advertising
+633,MEDICAL EQUIPMENT & SUPPLIES,Affordability & Pricing,1,HC-MS-240a.1,Ratio of weighted average rate of net price increases (for all products) to the annual increase in the U.S. Consumer Price Index
+635,,Product Safety,1,HC-MS-250a.1,"Number of recalls issued, total units recalled"
+636,,Product Safety,1,HC-MS-250a.2,List of products listed in the FDA’s MedWatch Safety Alerts for Human Medical Products database
+637,,Product Safety,1,HC-MS-250a.3,Number of fatalities related to products as reported in the FDA Manufacturer and User Facility Device Experiencedatabase
+638,,Product Safety,1,HC-MS-250a.4,"Number of FDA enforcement actions taken in response to violations of current Good Manufacturing Practices (cGMP), by type"
+639,,Ethical Marketing,1,HC-MS-270a.1,Total amount of monetary losses as a result of legal proceedings associated with false marketing claims
+641,,Product Design & Lifecycle Management,1,HC-MS-410a.1,"Discussion of process to assess and manage environmental and human health considerations associated with chemicals in products, and meet demand for sustainable products"
+642,,Product Design & Lifecycle Management,1,HC-MS-410a.2,"Total amount of products accepted for take-back and reused, recycled, or donated, broken down by: (1) devices and equipment and (2) supplies"
+643,,Supply Chain Management,1,HC-MS-430a.1,Percentage of (1) entity's facilities and (2) Tier I suppliers' facilities participating in third-party audit programs for manufacturing and product quality
+644,,Supply Chain Management,1,HC-MS-430a.2,Description of efforts to maintain traceability within the distribution chain
+646,,Business Ethics ,1,HC-MS-510a.1,Total amount of monetary losses as a result of legal proceedings associated with bribery or corruption
+648,METALS & MINING,Greenhouse Gas Emissions,1,EM-MM-110a.1,"Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations"
+650,,Air Quality,1,EM-MM-120a.1,"Air emissions of the following pollutants: (1) CO, (2) NOx (excluding N2O), (3) SOx, (4) particulate matter (PM10), (5) mercury (Hg), (6) lead (Pb), and (7) volatile organic compounds (VOCs)"
+651,,Energy Management,1,EM-MM-130a.1,"(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable"
+652,,Water Management,1,EM-MM-140a.1,"(1) Total fresh water withdrawn, (2) total fresh water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress"
+653,,Water Management,1,EM-MM-140a.2,"Number of incidents of non-compliance associated with water quality permits, standards, and regulations"
+654,,Waste & Hazardous Materials Management,1,EM-MM-150a.10,Description of waste and hazardous materials management policies and procedures for active and inactive operations
+655,,Waste & Hazardous Materials Management,1,EM-MM-150a.4,Total weight of non-mineral waste generated
+656,,Waste & Hazardous Materials Management,1,EM-MM-150a.5,Total weight of tailings produced
+657,,Waste & Hazardous Materials Management,1,EM-MM-150a.6,Total weight of waste rock generated
+658,,Waste & Hazardous Materials Management,1,EM-MM-150a.7,Total weight of hazardous waste generated
+659,,Waste & Hazardous Materials Management,1,EM-MM-150a.8,Total weight of hazardous waste recycled
+660,,Waste & Hazardous Materials Management,1,EM-MM-150a.9,Number of significant incidents associated with hazardous materials and waste management
+662,,Biodiversity Impacts,1,EM-MM-160a.2,"Percentage of mine sites where acid rock drainage is: (1) predicted to occur, (2) actively mitigated, and (3) under treatment or remediation"
+663,,Biodiversity Impacts,1,EM-MM-160a.3,Percentage of (1) proved and (2) probable reserves in or near sites with protected conservation status or endangered species habitat
+664,,"Security, Human Rights & Rights of Indigenous Peoples",1,EM-MM-210a.1,Percentage of (1) proved and (2) probable reserves in or near areas of conflict
+665,,"Security, Human Rights & Rights of Indigenous Peoples",1,EM-MM-210a.2,Percentage of (1) proved and (2) probable reserves in or near indigenous land
+668,,Community Relations,1,EM-MM-210b.2,Number and duration of non-technical delays
+669,,Labor Relations,1,EM-MM-310a.1,"Percentage of active workforce covered under collective bargaining agreements, broken down by U.S. and foreign employees"
+670,,Labor Relations,1,EM-MM-310a.2,Number and duration of strikes and lockouts
+671,,Workforce Health & Safety,1,EM-MM-320a.1,"(1) MSHA all-incidence rate, (2) fatality rate, (3) near miss frequency rate (NMFR) and (4) average hours of health, safety, and emergency response training for (a) full-time employees and (b) contract employees"
+673,,Business Ethics & Transparency,1,EM-MM-510a.2,Production in countries that have the 20 lowest rankings in Transparency International’s Corruption Perception Index
+674,,Tailings Storage Facilities Management,1,EM-MM-540a.1,"Tailings storage facility inventory table: (1) facility name, (2) location, (3) ownership status, (4) operational status, (5) construction method, (6) maximum permitted storage capacity, (7) current amount of tailings stored, (8) consequence classification, (9) date of most recent independent technical review, (10) material findings, (11) mitigation measures, (12) site-specific EPRP"
+677,MORTGAGE FINANCE,Lending Practices,1,FN-MF-270a.1,"(1) Number and (2) value of residential mortgages of the following types: (a) Hybrid or Option Adjustable-rate Mortgages (ARM), (b) Prepayment Penalty, (c) Higher Rate, (d) Total, by FICO scores above or below 660"
+678,,Lending Practices,1,FN-MF-270a.2,"(1) Number and (2) value of (a) residential mortgage modifications, (b) foreclosures, and (c) short sales or deeds in lieu of foreclosure, by FICO scores above and below 660"
+679,,Lending Practices,1,FN-MF-270a.3,Total amount of monetary losses as a result of legal proceedings associated with communications to customers or remuneration of loan originators
+681,,Discriminatory Lending,1,FN-MF-270b.1,"(1) Number, (2) value, and (3) weighted average Loan-to-Value (LTV) ratio of mortgages issued to (a) minority and (b) all other borrowers, by FICO scores above and below 660"
+682,,Discriminatory Lending,1,FN-MF-270b.2,Total amount of monetary losses as a result of legal proceedings associated with discriminatory mortgage lending
+684,,Environmental Risk to Mortgaged Properties,1,FN-MF-450a.1,(1) Number and (2) value of mortgage loans in 100-year flood zones
+685,,Environmental Risk to Mortgaged Properties,1,FN-MF-450a.2,"(1) Total expected loss and (2) Loss Given Default (LGD) attributable to mortgage loan default and delinquency due to weather-related natural catastrophes, by geographic region"
+687,MULTILINE AND SPECIALTY RETAILERS & DISTRIBUTORS,Energy Management ,1,CG-MR-130a.1,"(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable"
+689,,Data Security,1,CG-MR-230a.2,"(1) Number of data breaches, (2) percentage involving personally identifiable information (PII), (3) number of customers affected"
+690,,Labor Practices,1,CG-MR-310a.1,"(1) Average hourly wage and (2) percentage of in-store employees earning minimum wage, by region"
+691,,Labor Practices,1,CG-MR-310a.2,(1) Voluntary and (2) involuntary turnover rate for in-store employees
+692,,Labor Practices,1,CG-MR-310a.3,Total amount of monetary losses as a result of legal proceedings associated with labor law violations
+693,,Workforce Diversity & Inclusion,1,CG-MR-330a.1,Percentage of gender and racial/ethnic group representation for (1) management and (2) all other employees
+694,,Workforce Diversity & Inclusion,1,CG-MR-330a.2,Total amount of monetary losses as a result of legal proceedings associated with employment discrimination
+695,,"Product Sourcing, Packaging & Marketing",1,CG-MR-410a.1,Revenue from products third-party certified to environmental and/or social sustainability standards
+698,NON-ALCOHOLIC BEVERAGES,Fleet Fuel Management,1,FB-NB-110a.1,"Fleet fuel consumed, percentage renewable"
+699,,Energy Management,1,FB-NB-130a.1,"(1) Operational energy consumed, (2) percentage grid electricity, (3) percentage renewable"
+700,,Water Management,1,FB-NB-140a.1,"(1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress"
+702,,Health & Nutrition,1,FB-NB-260a.1,"Revenue from (1) zero- and low-calorie, (2) no-added-sugar, and (3) artificially sweetened beverages"
+704,,Product Labeling & Marketing,1,FB-NB-270a.1,Percentage of advertising impressions (1) made on children and (2) made on children promoting products that meet dietary guidelines
+705,,Product Labeling & Marketing,1,FB-NB-270a.2,Revenue from products labeled as (1) containing genetically modified organisms (GMOs) and (2) non-GMO
+706,,Product Labeling & Marketing,1,FB-NB-270a.3,Number of incidents of non-compliance with industry or regulatory labeling and/or marketing codes
+707,,Product Labeling & Marketing,1,FB-NB-270a.4,Total amount of monetary losses as a result of legal proceedings associated with marketing and/or labeling practices
+708,,Packaging Lifecycle Management,1,FB-NB-410a.1,"(1) Total weight of packaging, (2) percentage made from recycled and/or renewable materials, and (3) percentage that is recyclable, reusable, and/or compostable"
+710,,Environmental & Social Impacts of Ingredient Supply Chain,1,FB-NB-430a.1,Suppliers’ social and environmental responsibility audit (1) non-conformance rate and (2) associated corrective action rate for (a) major and (b) minor non-conformances
+711,,Ingredient Sourcing,1,FB-NB-440a.1,Percentage of beverage ingredients sourced from regions with High or Extremely High Baseline Water Stress
+713,OIL & GAS – EXPLORATION & PRODUCTION,Greenhouse Gas Emissions,1,EM-EP-110a.1,"Gross global Scope 1 emissions, percentage methane, percentage covered under emissions-limiting regulations"
+714,,Greenhouse Gas Emissions,1,EM-EP-110a.2,"Amount of gross global Scope 1 emissions from: (1) flared hydrocarbons, (2) other combustion, (3) process emissions, (4) other vented emissions, and (5) fugitive emissions"
+716,,Air Quality,1,EM-EP-120a.1,"Air emissions of the following pollutants: (1) NOx (excluding N2O), (2) SOx, (3) volatile organic compounds (VOCs), and (4) particulate matter (PM10)"
+717,,Water Management,1,EM-EP-140a.1,"(1) Total fresh water withdrawn, (2) total fresh water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress"
+718,,Water Management,1,EM-EP-140a.2,"Volume of produced water and flowback generated; percentage (1) discharged, (2) injected, (3) recycled; hydrocarbon content in discharged water"
+719,,Water Management,1,EM-EP-140a.3,Percentage of hydraulically fractured wells for which there is public disclosure of all fracturing fluid chemicals used
+720,,Water Management,1,EM-EP-140a.4,Percentage of hydraulic fracturing sites where ground or surface water quality deteriorated compared to a baseline
+722,,Biodiversity Impacts,1,EM-EP-160a.2,"Number and aggregate volume of hydrocarbon spills, volume in Arctic, volume impacting shorelines with ESI rankings 8-10, and volume recovered"
+723,,Biodiversity Impacts,1,EM-EP-160a.3,Percentage of (1) proved and (2) probable reserves in or near sites with protected conservation status or endangered species habitat
+724,,"Security, Human Rights & Rights of Indigenous Peoples",1,EM-EP-210a.1,Percentage of (1) proved and (2) probable reserves in or near areas of conflict
+725,,"Security, Human Rights & Rights of Indigenous Peoples",1,EM-EP-210a.2,Percentage of (1) proved and (2) probable reserves in or near indigenous land
+728,,Community Relations,1,EM-EP-210b.2,Number and duration of non-technical delays
+729,,Workforce Health & Safety,1,EM-EP-320a.1,"(1) Total recordable incident rate (TRIR), (2) fatality rate, (3) near miss frequency rate (NMFR), and (4) average hours of health, safety, and emergency response training for (a) full-time employees, (b) contract employees, and (c) short-service employees"
+731,,Reserves Valuation & Capital Expenditures,1,EM-EP-420a.1,Sensitivity of hydrocarbon reserve levels to future price projection scenarios that account for a price on carbon emissions
+732,,Reserves Valuation & Capital Expenditures,1,EM-EP-420a.2,Estimated carbon dioxide emissions embedded in proved hydrocarbon reserves
+733,,Reserves Valuation & Capital Expenditures,1,EM-EP-420a.3,"Amount invested in renewable energy, revenue generated by renewable energy sales"
+735,,Business Ethics & Transparency,1,EM-EP-510a.1,Percentage of (1) proved and (2) probable reserves in countries that have the 20 lowest rankings in Transparency International’s Corruption Perception Index
+738,,Critical Incident Risk Management,1,EM-EP-540a.1,Process Safety Event (PSE) rates for Loss of Primary Containment (LOPC) of greater consequence (Tier 1)
+740,OIL & GAS – MIDSTREAM,Greenhouse Gas Emissions,1,EM-MD-110a.1,"Gross global Scope 1 emissions, percentage methane, percentage covered under emissions-limiting regulations"
+742,,Air Quality,1,EM-MD-120a.1,"Air emissions of the following pollutants: (1) NOx (excluding N2O), (2) SOx, (3) volatile organic compounds (VOCs), and (4) particulate matter (PM10)"
+744,,Ecological Impacts,1,EM-MD-160a.2,"Percentage of land owned, leased, and/or operated within areas of protected conservation status or endangered species habitat"
+745,,Ecological Impacts,1,EM-MD-160a.3,"Terrestrial acreage disturbed, percentage of impacted area restored"
+746,,Ecological Impacts,1,EM-MD-160a.4,"Number and aggregate volume of hydrocarbon spills, volume in Arctic, volume in Unusually Sensitive Areas (USAs), and volume recovered"
+747,,Competitive Behavior,1,EM-MD-520a.1,Total amount of monetary losses as a result of legal proceedings associated with federal pipeline and storage regulations
+748,,"Operational Safety, Emergency Preparedness & Response",1,EM-MD-540a.1,"Number of reportable pipeline incidents, percentage significant"
+749,,"Operational Safety, Emergency Preparedness & Response",1,EM-MD-540a.2,Percentage of (1) natural gas and (2) hazardous liquid pipelines inspected
+750,,"Operational Safety, Emergency Preparedness & Response",1,EM-MD-540a.3,Number of (1) accident releases and (2) non-accident releases (NARs) from rail transportation
+752,OIL & GAS – REFINING & MARKETING,Greenhouse Gas Emissions,1,EM-RM-110a.1,"Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations"
+754,,Air Quality,1,EM-RM-120a.1,"Air emissions of the following pollutants: (1) NOx (excluding N2O), (2) SOx, (3) particulate matter (PM10), (4) H2S, and (5) volatile organic compounds (VOCs)"
+755,,Air Quality,1,EM-RM-120a.2,Number of refineries in or near areas of dense population
+756,,Water Management,1,EM-RM-140a.1,"(1) Total fresh water withdrawn, (2) percentage recycled, (3) percentage in regions with High or Extremely High Baseline Water Stress"
+757,,Water Management,1,EM-RM-140a.2,"Number of incidents of non-compliance associated with water quality permits, standards, and regulations"
+758,,Hazardous Materials Management,1,EM-RM-150a.1,"Amount of hazardous waste generated, percentage recycled"
+759,,Hazardous Materials Management,1,EM-RM-150a.2,"(1) Number of underground storage tanks (USTs), (2) number of UST releases requiring cleanup, and (3) percentage in states with UST financial assurance funds"
+760,,Workforce Health & Safety,1,EM-RM-320a.1,"(1) Total recordable incident rate (TRIR), (2) fatality rate, and (3) near miss frequency rate (NMFR) for (a) full-time employees and (b) contract employees"
+762,,Product Specifications & Clean Fuel Blends,1,EM-RM-410a.1,"Percentage of Renewable Volume Obligation (RVO) met through: (1) production of renewable fuels, (2) purchase of “separated” renewable identification numbers (RIN)"
+763,,Product Specifications & Clean Fuel Blends,1,EM-RM-410a.2,Total addressable market and share of market for advanced biofuels and associated infrastructure
+764,,Pricing Integrity & Transparency,1,EM-RM-520a.1,Total amount of monetary losses as a result of legal proceedings associated with price fixing or price manipulation
+766,,Critical Incident Risk Management,1,EM-RM-540a.1,Process Safety Event (PSE) rates for Loss of Primary Containment (LOPC) of greater consequence (Tier 1) and lesser consequence (Tier 2)
+767,,Critical Incident Risk Management,1,EM-RM-540a.2,Challenges to Safety Systems indicator rate (Tier 3)
+769,OIL & GAS – SERVICES,Emissions Reduction Services & Fuels Management,1,EM-SV-110a.1,"Total fuel consumed, percentage renewable, percentage used in: (1) on-road equipment and vehicles and (2) off-road equipment"
+771,,Emissions Reduction Services & Fuels Management,1,EM-SV-110a.3,Percentage of engines in service that meet Tier 4 compliance for non-road diesel engine emissions
+772,,Water Management,1,EM-SV-140a.1,"(1) Total volume of fresh water handled in operations, (2) percentage recycled"
+774,,Chemicals Management,1,EM-SV-150a.1,"Volume of hydraulic fracturing fluid used, percentage hazardous"
+776,,Ecological Impact Management,1,EM-SV-160a.1,Average disturbed acreage per (1) oil and (2) gas well site
+778,,Workforce Health & Safety,1,EM-SV-320a.1,"(1) Total recordable incident rate (TRIR), (2) fatality rate, (3) near miss frequency rate (NMFR), (4) total vehicle incident rate (TVIR), and (5) average hours of health, safety, and emergency response training for (a) full-time employees, (b) contract employees, and (c) short-service employees"
+780,,Business Ethics & Payments Transparency,1,EM-SV-510a.1,Amount of net revenue in countries that have the 20 lowest rankings in Transparency International’s Corruption Perception Index
+784,PROCESSED FOODS,Energy Management,1,FB-PF-130a.1,"(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable"
+785,,Water Management,1,FB-PF-140a.1,"(1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress"
+786,,Water Management,1,FB-PF-140a.2,"Number of incidents of non-compliance associated with water quantity and/or quality permits, standards, and regulations"
+788,,Food Safety,1,FB-PF-250a.1,Global Food Safety Initiative (GFSI) audit (1) non-conformance rate and (2) associated corrective action rate for (a) major and (b) minor non-conformances
+789,,Food Safety,1,FB-PF-250a.2,Percentage of ingredients sourced from Tier 1 supplier facilities certified to a Global Food Safety Initiative (GFSI) recognized food safety certification program
+790,,Food Safety,1,FB-PF-250a.3,"(1) Total number of notices of food safety violation received, (2) percentage corrected"
+791,,Food Safety,1,FB-PF-250a.4,(1) Number of recalls issued and (2) total amount of food product recalled
+792,,Health & Nutrition,1,FB-PF-260a.1,Revenue from products labeled and/or marketed to promote health and nutrition attributes
+794,,Product Labeling & Marketing,1,FB-PF-270a.1,Percentage of advertising impressions (1) made on children and (2) made on children promoting products that meet dietary guidelines
+795,,Product Labeling & Marketing,1,FB-PF-270a.2,Revenue from products labeled as (1) containing genetically modified organisms (GMOs) and (2) non-GMO
+796,,Product Labeling & Marketing,1,FB-PF-270a.3,Number of incidents of non-compliance with industry or regulatory labeling and/or marketing codes
+797,,Product Labeling & Marketing,1,FB-PF-270a.4,Total amount of monetary losses as a result of legal proceedings associated with labeling and/or marketing practices
+798,,Packaging Lifecycle Management,1,FB-PF-410a.1,"(1) Total weight of packaging, (2) percentage made from recycled and/or renewable materials, and (3) percentage that is recyclable, reusable, and/or compostable"
+800,,Environmental & Social Impacts of Ingredient Supply Chain,1,FB-PF-430a.1,Percentage of food ingredients sourced from regions with High or Extremely High Baseline Water Stress
+801,,Environmental & Social Impacts of Ingredient Supply Chain,1,FB-PF-430a.2,Suppliers’ social and environmental responsibility audit (1) non-conformance rate and (2) associated corrective action rate for (a) major and (b) minor non-conformances
+802,,Ingredient Sourcing,1,FB-PF-440a.1,"Percentage of food ingredients sourced that are certified to third-party environmental and/or social standards, and percentages by standard"
+806,,Data Security,1,SV-PS-230a.3,"(1) Number of data breaches, (2) percentage involving customers' confidential business information (CBI) or personally identifiable information (PII), (3) number of customers affected"
+807,,Workforce Diversity & Engagement,1,SV-PS-330a.1,Percentage of gender and racial/ethnic group representation for (1) executive management and (2) all other employees
+808,,Workforce Diversity & Engagement,1,SV-PS-330a.2,(1) Voluntary and (2) involuntary turnover rate for employees
+809,,Workforce Diversity & Engagement,1,SV-PS-330a.3,Employee engagement as a percentage
+811,,Professional Integrity,1,SV-PS-510a.2,Total amount of monetary losses as a result of legal proceedings associated with professional integrity
+812,PULP & PAPER PRODUCTS,Greenhouse Gas Emissions,1,RR-PP-110a.1,Gross global Scope 1 emissions
+814,,Air Quality,1,RR-PP-120a.1,"Air emissions of the following pollutants: (1) NOx (excluding N2O), (2) SO2, (3) volatile organic compounds (VOCs), (4) particulate matter (PM), and (5) hazardous air pollutants (HAPs)"
+815,,Energy Management ,1,RR-PP-130a.1,"(1) Total energy consumed, (2) percentage grid electricity, (3) percentage from biomass, (4) percentage from other renewable energy, (5) total self-generated energy"
+816,,Water Management,1,RR-PP-140a.1,"(1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress"
+818,,Supply Chain Management,1,RR-PP-430a.1,Percentage of wood fiber sourced from (1) third-party certified forestlands and percentage to each standard and (2) meeting other fiber sourcing standards and percentage to each standard
+819,,Supply Chain Management,1,RR-PP-430a.2,Amount of recycled and recovered fiber procured
+820,RAIL TRANSPORTATION,Greenhouse Gas Emissions,1,TR-RA-110a.1,Gross global Scope 1 emissions
+822,,Greenhouse Gas Emissions,1,TR-RA-110a.3,"Total fuel consumed, percentage renewable"
+823,,Air Quality,1,TR-RA-120a.1,Air emissions of the following pollutants: (1) NOx (excluding N2O) and (2) particulate matter (PM10)
+824,,Employee Health & Safety,1,TR-RA-320a.1,"(1) Total recordable incident rate (TRIR), (2) fatality rate, and (3) near miss frequency rate (NMFR)"
+825,,Competitive Behavior,1,TR-RA-520a.1,Total amount of monetary losses as a result of legal proceedings associated with anti-competitive behavior regulations
+826,,Accident & Safety Management,1,TR-RA-540a.1,Number of accidents and incidents
+827,,Accident & Safety Management,1,TR-RA-540a.2,Number of (1) accident releases and (2) non-accident releases (NARs)
+828,,Accident & Safety Management,1,TR-RA-540a.3,Number of Federal Railroad Administration (FRA) Recommended Violation Defects
+829,,Accident & Safety Management,1,TR-RA-540a.4,Frequency of internal railway integrity inspections
+830,REAL ESTATE,Energy Management,1,IF-RE-130a.1,"Energy consumption data coverage as a percentage of total floor area, by property subsector"
+831,,Energy Management,1,IF-RE-130a.2,"(1) Total energy consumed by portfolio area with data coverage, (2) percentage grid electricity, and (3) percentage renewable, by property subsector"
+832,,Energy Management,1,IF-RE-130a.3,"Like-for-like percentage change in energy consumption for the portfolio area with data coverage, by property subsector"
+833,,Energy Management,1,IF-RE-130a.4,"Percentage of eligible portfolio that (1) has an energy rating and (2) is certified to ENERGY STAR, by property subsector"
+835,,Water Management,1,IF-RE-140a.1,"Water withdrawal data coverage as a percentage of (1) total floor area and (2) floor area in regions with High or Extremely High Baseline Water Stress, by property subsector"
+836,,Water Management,1,IF-RE-140a.2,"(1) Total water withdrawn by portfolio area with data coverage and (2) percentage in regions with High or Extremely High Baseline Water Stress, by property subsector"
+837,,Water Management,1,IF-RE-140a.3,"Like-for-like percentage change in water withdrawn for portfolio area with data coverage, by property subsector"
+839,,Management of Tenant Sustainability Impacts,1,IF-RE-410a.1,"(1) Percentage of new leases that contain a cost recovery clause for resource efficiency-related capital improvements and (2) associated leased floor area, by property subsector"
+840,,Management of Tenant Sustainability Impacts,1,IF-RE-410a.2,"Percentage of tenants that are separately metered or submetered for (1) grid electricity consumption and (2) water withdrawals, by property subsector"
+842,,Climate Change Adaptation,1,IF-RE-450a.1,"Area of properties located in 100-year flood zones, by property subsector"
+844,REAL ESTATE SERVICES,Sustainability Services,1,IF-RS-410a.1,Revenue from energy and sustainability services
+845,,Sustainability Services,1,IF-RS-410a.2,(1) Floor area and (2) number of buildings under management provided with energy and sustainability services
+846,,Sustainability Services,1,IF-RS-410a.3,(1) Floor area and (2) number of buildings under management that obtained an energy rating
+847,,Transparent Information & Management of Conflict of Interest,1,IF-RS-510a.1,Brokerage revenue from dual agency transactions
+848,,Transparent Information & Management of Conflict of Interest,1,IF-RS-510a.2,Revenue from transactions associated with appraisal services
+849,,Transparent Information & Management of Conflict of Interest,1,IF-RS-510a.3,"Total amount of monetary losses as a result of legal proceedings associated with professional integrity, including duty of care"
+850,RESTAURANTS,Energy Management,1,FB-RN-130a.1,"(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable"
+851,,Water Management,1,FB-RN-140a.1,"(1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress"
+852,,Food & Packaging Waste Management,1,FB-RN-150a.1,"(1) Total amount of waste, (2) percentage food waste, and (3) percentage diverted"
+853,,Food & Packaging Waste Management,1,FB-RN-150a.2,"(1) Total weight of packaging, (2) percentage made from recycled and/or renewable materials, and (3) percentage that is recyclable, reusable, and/or compostable"
+854,,Food Safety,1,FB-RN-250a.1,"(1) Percentage of restaurants inspected by a food safety oversight body, (2) percentage receiving critical violations"
+855,,Food Safety,1,FB-RN-250a.2,(1) Number of recalls issued and (2) total amount of food product recalled
+856,,Food Safety,1,FB-RN-250a.3,"Number of confirmed foodborne illness outbreaks, percentage resulting in U.S. Centers for Disease Control and Prevention (CDC) investigation"
+857,,Nutritional Content,1,FB-RN-260a.1,(1) Percentage of meal options consistent with national dietary guidelines and (2) revenue from these options
+858,,Nutritional Content,1,FB-RN-260a.2,(1) Percentage of children’s meal options consistent with national dietary guidelines for children and (2) revenue from these options
+859,,Nutritional Content,1,FB-RN-260a.3,"Number of advertising impressions made on children, percentage promoting products that meet national dietary guidelines for children"
+860,,Labor Practices,1,FB-RN-310a.1,(1) Voluntary and (2) involuntary turnover rate for restaurant employees
+861,,Labor Practices,1,FB-RN-310a.2,"(1) Average hourly wage, by region and (2) percentage of restaurant employees earning minimum wage, by region"
+862,,Labor Practices,1,FB-RN-310a.3,Total amount of monetary losses as a result of legal proceedings associated with (1) labor law violations and (2) employment discrimination
+863,,Supply Chain Management & Food Sourcing,1,FB-RN-430a.1,Percentage of food purchased that (1) meets environmental and social sourcing standards and (2) is certified to third-party environmental and/or social standards
+864,,Supply Chain Management & Food Sourcing,1,FB-RN-430a.2,Percentage of (1) eggs that originated from a cage-free environment and (2) pork that was produced without the use of gestation crates
+866,ROAD TRANSPORTATION,Greenhouse Gas Emissions,1,TR-RO-110a.1,Gross global Scope 1 emissions
+868,,Greenhouse Gas Emissions,1,TR-RO-110a.3,"(1) Total fuel consumed, (2) percentage natural gas, (3) percentage renewable"
+869,,Air Quality,1,TR-RO-120a.1,"Air emissions of the following pollutants: (1) NOx (excluding N2O), (2) SOx, and (3) particulate matter (PM10)"
+870,,Driver Working Conditions,1,TR-RO-320a.1,(1) Total recordable incident rate (TRIR) and (2) fatality rate for (a) direct employees and (b) contract employees
+871,,Driver Working Conditions,1,TR-RO-320a.2,(1) Voluntary and (2) involuntary turnover rate for all employees
+873,,Accident & Safety Management,1,TR-RO-540a.1,Number of road accidents and incidents
+874,,Accident & Safety Management,1,TR-RO-540a.2,"Safety Measurement System BASIC percentiles for: (1) Unsafe Driving, (2) Hours-of-Service Compliance, (3) Driver Fitness, (4) Controlled Substances/Alcohol, (5) Vehicle Maintenance, and (6) Hazardous Materials Compliance"
+875,,Accident & Safety Management,1,TR-RO-540a.3,(1) Number and (2) aggregate volume of spills and releases to the environment
+876,SECURITY & COMMODITY EXCHANGES,Promoting Transparent & Efficient Capital Markets,1,FN-EX-410a.1,(1) Number and (2) average duration of (a) halts related to public release of information and (b) pauses related to volatility
+877,,Promoting Transparent & Efficient Capital Markets,1,FN-EX-410a.2,Percentage of trades generated from automated trading systems
+880,,Managing Conflicts of Interest,1,FN-EX-510a.1,"Total amount of monetary losses as a result of legal proceedings associated with fraud, insider trading, anti-trust, anti-competitive behavior, market manipulation, malpractice, or other related financial industry laws or regulations"
+882,,Managing Business Continuity & Technology Risks,1,FN-EX-550a.1,(1) Number of significant market disruptions and (2) duration of downtime
+883,,Managing Business Continuity & Technology Risks,1,FN-EX-550a.2,"(1) Number of data breaches, (2) percentage involving personally identifiable information (PII), (3) number of customers affected"
+887,,Energy Management in Manufacturing,1,TC-SC-130a.1,"(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable"
+888,,Water Management,1,TC-SC-140a.1,"(1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress"
+889,,Waste Management,1,TC-SC-150a.1,"Amount of hazardous waste from manufacturing, percentage recycled"
+891,,Employee Health & Safety,1,TC-SC-320a.2,Total amount of monetary losses as a result of legal proceedings associated with employee health and safety violations
+892,,Recruiting & Managing a Global & Skilled Workforce,1,TC-SC-330a.1,Percentage of employees that are (1) foreign nationals and (2) located offshore
+893,,Product Lifecycle Management,1,TC-SC-410a.1,Percentage of products by revenue that contain IEC 62474 declarable substances
+894,,Product Lifecycle Management,1,TC-SC-410a.2,"Processor energy efficiency at a system-level for: (1) servers, (2) desktops, and (3) laptops"
+896,,Materials Sourcing,1,TC-SC-520a.1,Total amount of monetary losses as a result of legal proceedings associated with anti-competitive behavior regulations
+897,SOFTWARE & IT SERVICES,Environmental Footprint of Hardware Infrastructure,1,TC-SI-130a.1,"(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable"
+898,,Environmental Footprint of Hardware Infrastructure,1,TC-SI-130a.2,"(1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress"
+901,,Data Privacy & Freedom of Expression,1,TC-SI-220a.2,Number of users whose information is used for secondary purposes
+902,,Data Privacy & Freedom of Expression,1,TC-SI-220a.3,Total amount of monetary losses as a result of legal proceedings associated with user privacy
+903,,Data Privacy & Freedom of Expression,1,TC-SI-220a.4,"(1) Number of law enforcement requests for user information, (2) number of users whose information was requested, (3) percentage resulting in disclosure"
+905,,Data Security,1,TC-SI-230a.1,"(1) Number of data breaches, (2) percentage involving personally identifiable information (PII), (3) number of users affected"
+907,,"Recruiting & Managing a Global, Diverse & Skilled Workforce",1,TC-SI-330a.1,Percentage of employees that are (1) foreign nationals and (2) located offshore
+908,,"Recruiting & Managing a Global, Diverse & Skilled Workforce",1,TC-SI-330a.2,Employee engagement as a percentage
+909,,"Recruiting & Managing a Global, Diverse & Skilled Workforce",1,TC-SI-330a.3,"Percentage of gender and racial/ethnic group representation for (1) management, (2) technical staff, and (3) all other employees"
+910,,Intellectual Property Protection & Competitive Behavior,1,TC-SI-520a.1,Total amount of monetary losses as a result of legal proceedings associated with anti-competitive behavior regulations
+911,,Managing Systemic Risks from Technology Disruptions,1,TC-SI-550a.1,Number of (1) performance issues and (2) service disruptions; (3) total customer downtime
+913,SOLAR TECHNOLOGY & PROJECT DEVELOPERS,Energy Management ,1,RR-ST-130a.1,"(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable"
+914,,Water Management,1,RR-ST-140a.1,"(1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress"
+916,,Hazardous Waste Management,1,RR-ST-150a.1,"Amount of hazardous waste generated, percentage recycled"
+917,,Hazardous Waste Management,1,RR-ST-150a.2,"Number and aggregate quantity of reportable spills, quantity recovered"
+918,,Ecological Impacts of Project Development,1,RR-ST-160a.1,Number and duration of project delays related to ecological impacts
+922,,Product End-of-life Management,1,RR-ST-410b.1,Percentage of products sold that are recyclable or reusable
+923,,Product End-of-life Management,1,RR-ST-410b.2,"Weight of end-of-life material recovered, percentage recycled"
+924,,Product End-of-life Management,1,RR-ST-410b.3,"Percentage of products by revenue that contain IEC 62474 declarable substances, arsenic compounds, antimony compounds, or beryllium compounds"
+928,TELECOMMUNICATION SERVICES,Environmental Footprint of Operations,1,TC-TL-130a.1,"(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable"
+930,,Data Privacy,1,TC-TL-220a.2,Number of customers whose information is used for secondary purposes
+931,,Data Privacy,1,TC-TL-220a.3,Total amount of monetary losses as a result of legal proceedings associated with customer privacy
+932,,Data Privacy,1,TC-TL-220a.4,"(1) Number of law enforcement requests for customer information, (2) number of customers whose information was requested, (3) percentage resulting in disclosure"
+933,,Data Security,1,TC-TL-230a.1,"(1) Number of data breaches, (2) percentage involving personally identifiable information (PII), (3) number of customers affected"
+935,,Product End-of-life Management,1,TC-TL-440a.1,"(1) Materials recovered through take back programs, percentage of recovered materials that were (2) reused, (3) recycled, and (4) landfilled"
+936,,Competitive Behavior & Open Internet,1,TC-TL-520a.1,Total amount of monetary losses as a result of legal proceedings associated with anti-competitive behavior regulations
+937,,Competitive Behavior & Open Internet,1,TC-TL-520a.2,Average actual sustained download speed of (1) owned and commercially-associated content and (2) non-associated content
+939,,Managing Systemic Risks from Technology Disruptions,1,TC-TL-550a.1,(1) System average interruption frequency and (2) customer average interruption duration
+941,TOBACCO,Public Health,1,FB-TB-260a.1,(1) Gross revenue and (2) revenue net of excise taxes from (a) non-tobacco nicotine products and (b) heated tobacco products
+943,,Marketing Practices,1,FB-TB-270a.1,"Total amount of monetary losses as a result of legal proceedings associated with marketing, labeling, and/or advertising practices"
+945,TOYS & SPORTING GOODS,Chemical & Safety Hazards of Products,1,CG-TS-250a.1,Number of (1) recalls and (2) total units recalled
+946,,Chemical & Safety Hazards of Products,1,CG-TS-250a.2,Number of Letters of Advice (LOA) received
+947,,Chemical & Safety Hazards of Products,1,CG-TS-250a.3,Total amount of monetary losses as a result of legal proceedings associated with product safety
+949,,Labor Conditions in the Supply Chain,1,CG-TS-430a.1,Number of facilities audited to a social responsibility code of conduct
+950,,Labor Conditions in the Supply Chain,1,CG-TS-430a.2,Direct suppliers’ social responsibility audit (1) non-conformance rate and (2) associated corrective action rate for (a) priority non-conformances and (b) other non-conformances
+951,WASTE MANAGEMENT,Greenhouse Gas Emissions,1,IF-WM-110a.1,"(1) Gross global Scope 1 emissions, percentage covered under (2) emissions-limiting regulations, and (3) emissions-reporting regulations"
+952,,Greenhouse Gas Emissions,1,IF-WM-110a.2,"(1) Total landfill gas generated, (2) percentage flared, (3) percentage used for energy"
+954,,Fleet Fuel Management,1,IF-WM-110b.1,"(1) Fleet fuel consumed, (2) percentage natural gas, (3) percentage renewable"
+955,,Fleet Fuel Management,1,IF-WM-110b.2,Percentage of alternative fuel vehicles in fleet
+956,,Air Quality,1,IF-WM-120a.1,"Air emissions of the following pollutants: (1) NOx (excluding N2O), (2) SOx, (3) volatile organic compounds (VOCs), and (4) hazardous air pollutants (HAPs)"
+957,,Air Quality,1,IF-WM-120a.2,Number of facilities in or near areas of dense population
+958,,Air Quality,1,IF-WM-120a.3,Number of incidents of non-compliance associated with air emissions
+959,,Management of Leachate & Hazardous Waste,1,IF-WM-150a.1,"(1) Total Toxic Release Inventory (TRI) releases, (2) percentage released to water"
+960,,Management of Leachate & Hazardous Waste,1,IF-WM-150a.2,Number of corrective actions implemented for landfill releases
+961,,Management of Leachate & Hazardous Waste,1,IF-WM-150a.3,Number of incidents of non-compliance associated with environmental impacts
+962,,Labor Practices,1,IF-WM-310a.1,Percentage of active workforce covered under collective bargaining agreements
+963,,Labor Practices,1,IF-WM-310a.2,(1) Number of work stoppages and (2) total days idle
+964,,Workforce Health & Safety,1,IF-WM-320a.1,"(1) Total recordable incident rate (TRIR), (2) fatality rate, and (3) near miss frequency rate (NMFR) for (a) direct employees and (b) contract employees"
+965,,Workforce Health & Safety,1,IF-WM-320a.2,"Safety Measurement System BASIC percentiles for: (1) Unsafe Driving, (2) Hours-of-Service Compliance, (3) Driver Fitness, (4) Controlled Substances/Alcohol, (5) Vehicle Maintenance, and (6) Hazardous Materials Compliance"
+966,,Workforce Health & Safety,1,IF-WM-320a.3,Number of road accidents and incidents
+967,,Recycling & Resource Recovery,1,IF-WM-420a.1,"(1) Amount of waste incinerated, (2) percentage hazardous, (3) percentage used for energy recovery"
+968,,Recycling & Resource Recovery,1,IF-WM-420a.2,"Percentage of customers receiving (1) recycling and (2) composting services, by customer type"
+969,,Recycling & Resource Recovery,1,IF-WM-420a.3,"Amount of material (1) recycled, (2) composted, and (3) processed as waste-to-energy"
+970,,Recycling & Resource Recovery,1,IF-WM-420a.4,"Amount of electronic waste collected, percentage recovered through recycling"
+971,WATER UTILITIES & SERVICES,Energy Management ,1,IF-WU-130a.1,"(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable"
+972,,Distribution Network Efficiency,1,IF-WU-140a.1,Water main replacement rate
+973,,Distribution Network Efficiency,1,IF-WU-140a.2,Volume of non-revenue real water losses
+974,,Effluent Quality Management,1,IF-WU-140b.1,"Number of incidents of non-compliance associated with water effluent quality permits, standards, and regulations"
+976,,Water Affordability & Access,1,IF-WU-240a.1,"Average retail water rate for (1) residential, (2) commercial, and (3) industrial customers"
+977,,Water Affordability & Access,1,IF-WU-240a.2,Typical monthly water bill for residential customers for 10 Ccf of water delivered per month
+978,,Water Affordability & Access,1,IF-WU-240a.3,"Number of residential customer water disconnections for non-payment, percentage reconnected within 30 days"
+980,,Drinking Water Quality,1,IF-WU-250a.1,"Number of (1) acute health-based, (2) non-acute health-based, and (3) non-health-based drinking water violations"
+982,,End-Use Efficiency,1,IF-WU-420a.1,Percentage of water utility revenues from rate structures that are designed to promote conservation and revenue resilience
+983,,End-Use Efficiency,1,IF-WU-420a.2,"Customer water savings from efficiency measures, by market"
+984,,Water Supply Resilience,1,IF-WU-440a.1,"Total water sourced from regions with High or Extremely High Baseline Water Stress, percentage purchased from a third party"
+985,,Water Supply Resilience,1,IF-WU-440a.2,Volume of recycled water delivered to customers
+987,,Network Resiliency & Impacts of Climate Change,1,IF-WU-450a.1,Wastewater treatment capacity located in 100-year flood zones
+988,,Network Resiliency & Impacts of Climate Change,1,IF-WU-450a.2,"(1) Number and (2) volume of sanitary sewer overflows (SSO), (3) percentage of volume recovered"
+989,,Network Resiliency & Impacts of Climate Change,1,IF-WU-450a.3,"(1) Number of unplanned service disruptions, and (2) customers affected, each by duration category"
+991,WIND TECHNOLOGY & PROJECT DEVELOPERS,Workforce Health & Safety,1,RR-WT-320a.1,(1) Total recordable incident rate (TRIR) and (2) fatality rate for (a) direct employees and (b) contract employees
+992,,Ecological Impacts of Project Development,1,RR-WT-410a.1,"Average A-weighted sound power level of wind turbines, by wind turbine class"
+993,,Ecological Impacts of Project Development,1,RR-WT-410a.2,Backlog cancellations associated with community or ecological impacts
+996,,Materials Efficiency,1,RR-WT-440b.1,"Top five materials consumed, by weight"
+997,,Materials Efficiency,1,RR-WT-440b.2,"Average top head mass per turbine capacity, by wind turbine class"
