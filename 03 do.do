@@ -336,11 +336,27 @@ asdoc tab quant_topic_num, sort
 tabstat reported b2c sinind multiind $controls, stats(N mean sd p25 p50 p75) c(s) f(%9.3f)
 
 ** Regressions
-logit reported ib19.quant_topic_num
+logit reported ib12.quant_topic_num
 est store m1  
-qui logit reported ib19.quant_topic_num b2c sinind multiind 
+qui logit reported ib12.quant_topic_num b2c sinind multiind 
 est store m2
-qui logit reported ib19.quant_topic_num b2c sinind multiind $controls 
+qui logit reported ib12.quant_topic_num b2c sinind multiind $controls 
+est store m3
+esttab m1 m2 m3 using mm.rtf, label replace compress nogap star(* 0.1 ** 0.05 *** 0.01) scalar(N r2_p) order($quant_metrics) 
+
+**** Broad quant metrics
+
+tab broad_topic
+encode broad_topic, gen(broad_topic_num)
+
+tab broad_topic_num, nolabel  // 13 is other quant
+
+** Regressions
+logit reported ib13.broad_topic_num
+est store m1  
+qui logit reported ib13.broad_topic_num b2c sinind multiind 
+est store m2
+qui logit reported ib13.broad_topic_num b2c sinind multiind $controls 
 est store m3
 esttab m1 m2 m3 using mm.rtf, label replace compress nogap star(* 0.1 ** 0.05 *** 0.01) scalar(N r2_p) order($quant_metrics) 
 
