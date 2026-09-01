@@ -84,6 +84,7 @@ duplicates list gvkey year
 save control.dta, replace
 */
 
+/*
 * 1) Link SASB companies in sample with identifiers and controls
 import excel "SASB Metrics and Data (working).xlsx", sheet("Sample") firstrow clear
 rename _all, lower
@@ -111,8 +112,9 @@ sort lineinmaster year
 sum 
 save sample_control.dta, replace
 export excel using "sample_control.xlsx", firstrow(variables) replace
+*/
 
-**# Bookmark #1
+**# Bookmark #1 Regressions from here
 
 * 3) Merge with SASB metrics
 
